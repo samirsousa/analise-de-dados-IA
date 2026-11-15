@@ -50,4 +50,4 @@ Demonstrar competência técnica prática em toda a cadeia de valor de dados e i
 ## 👨‍💻 Autor
 **Samir Firmino Martins de Sousa**  
 Estudante de Sistemas de Informação | Foco em Analytics Engineering, Automação e Inteligência Artificial.  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+[LinkedIn](https://www.linkedin.com/in/samir-firmino-573322265/) | [GitHub](https://github.com/samirsousa/)
