@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🚀 AI & Analytics Hub
 
 Repositório dedicado a soluções de análise de dados, machine learning, automações analíticas e inteligência artificial aplicada. Este espaço complementa minha stack de engenharia, focando em inteligência de dados, modelagem preditiva e produtos de IA.
