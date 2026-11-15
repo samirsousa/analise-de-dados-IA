@@ -1,0 +1,2 @@
+# O projeto utiliza exclusivamente a biblioteca padrão do Python (dataclasses, pathlib, datetime, typing)
+# e é 100% livre de dependências externas obrigatórias.
