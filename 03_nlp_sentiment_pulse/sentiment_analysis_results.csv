@@ -1,0 +1,21 @@
+review_id,customer,category,text,sentiment,score,pain_point
+REV-001,Mariana Souza,Informática,"O notebook gamer é simplesmente excelente e muito rápido! Superou todas as minhas expectativas, recomendo demais.",Positivo,6.14,
+REV-002,Carlos Alberto,Eletrônicos,Péssima experiência! O produto chegou com a tela quebrada e com defeito grave. Solicito estorno imediato.,Negativo,-6.4,Defeito & Baixa Qualidade do Produto
+REV-003,Fernanda Lima,Móveis,"A cadeira ergonômica é boa e confortável, porém o manual de montagem é um pouco confuso. No geral, ok.",Positivo,2.7,
+REV-004,Rodrigo Mendes,Acessórios,"O mouse sem fio é ótimo, bateria dura bastante e acabamento impecável. Chegou antes do prazo!",Positivo,4.8,
+REV-005,Juliana Castro,Informática,"Horrível! Grande atraso na entrega, demorou mais de 25 dias e a transportadora não atualizava o rastreio.",Negativo,-5.5,Logística & Atrasos de Entrega
+REV-006,Lucas Ferreira,Eletrônicos,"O monitor atende ao básico para trabalhar com planilhas. Nada de extraordinário, produto mediano.",Neutro,0.0,
+REV-007,Patrícia Alves,Acessórios,"Não recomendo! O teclado mecânico não funcionou direito, fica dando falha de tecla e o suporte técnico teve descaso total.",Negativo,-5.94,Defeito & Baixa Qualidade do Produto
+REV-008,Bruno Martins,Móveis,"Mesa com regulagem de altura perfeita! Muito resistente, bonita e de altíssima qualidade. Parabéns à loja!",Positivo,8.74,
+REV-009,Camila Ribeiro,Informática,"SSD rápido, entrega pontual e bem embalado. Tudo 100% conforme o anúncio.",Positivo,2.8,
+REV-010,Eduardo Santos,Eletrônicos,O fone de ouvido é caro pelo que entrega. O cancelamento de ruído é fraco e não gostei do acabamento.,Negativo,-4.38,Logística & Atrasos de Entrega
+REV-011,Beatriz Rocha,Acessórios,"Hub USB muito prático e compacto. Funcionou de primeira no meu Macbook, compra aprovada.",Positivo,3.58,
+REV-012,Gabriel Nogueira,Informática,A placa de vídeo esquenta muito e trava em jogos pesados. Estou bastante frustrado com o defeito.,Negativo,-7.08,Defeito & Baixa Qualidade do Produto
+REV-013,Aline Moreira,Móveis,"Gaveteiro bonito, mas a fechadura veio arranhada. Como não interfere no uso diário, decidi não pedir devolução.",Neutro,-0.3,Defeito & Baixa Qualidade do Produto
+REV-014,Rafael Vieira,Eletrônicos,Som da caixa bluetooth potente e bateria duradoura! Adorei a qualidade sonora e a facilidade de conexão.,Positivo,4.7,
+REV-015,Tatiane Cunha,Acessórios,Suporte articulado rígido e difícil de ajustar. Atendimento do SAC foi lento e não resolveu minha dúvida.,Negativo,-2.6,Mau Atendimento & Suporte Técnico
+REV-016,Marcelo Dias,Informática,Memória RAM instalada e reconhecida com perfeição. Desempenho do computador melhorou muito.,Neutro,0.0,
+REV-017,Vanessa Barbosa,Eletrônicos,"Smartwatch bonito, porém as notificações demoram para sincronizar. Funciona razoavelmente bem.",Positivo,1.2,
+REV-018,Felipe Cardoso,Móveis,"Cadeira confortável, entrega rápida e ótimo custo-benefício. Recomendo para quem trabalha em home office.",Positivo,6.6,
+REV-019,Isabela Pires,Acessórios,Câmera webcam com imagem de baixa resolução e chiado no microfone. Decepção pelo valor cobrado.,Negativo,-3.4,Defeito & Baixa Qualidade do Produto
+REV-020,Thiago Borges,Informática,"Notebook ultra leve e bateria excelente. Melhor compra do ano, qualidade impecável!",Positivo,7.5,

@@ -1,0 +1,24 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit local credentials & state
+.streamlit/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database files if persisted
+*.db
+*.sqlite3
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
