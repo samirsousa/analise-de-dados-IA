@@ -1,0 +1,1001 @@
+transaction_id,timestamp,hora_dia,is_madrugada,valor,localidade,distancia_origem_km,categoria,is_synthetic_outlier,anomaly_type,raw_anomaly_score,risk_score,is_anomaly,risk_level,motivo_suspeita
+TXN-1522,2026-11-04 20:21:00,20,0,63.41,Porto Alegre,19.3,Farmácia,0,Legítima,0.1197432907113507,19.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1738,2026-11-15 16:57:00,16,0,145.82,Porto Alegre,37.5,Streaming,0,Legítima,0.1658121598216994,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1741,2026-11-04 20:36:00,20,0,153.28,São Paulo,42.2,Combustível,0,Legítima,0.08996623954147354,26.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1661,2026-11-10 17:33:00,17,0,35.41,Porto Alegre,38.3,Farmácia,0,Legítima,0.15474424614188964,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1412,2026-11-07 17:09:00,17,0,29.52,Curitiba,17.9,Streaming,0,Legítima,0.17811091535494444,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1679,2026-11-04 11:37:00,11,0,103.4,São Paulo,3.0,Combustível,0,Legítima,0.1551906375365401,11.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1627,2026-11-06 14:18:00,14,0,17.75,Rio de Janeiro,15.3,Supermercado,0,Legítima,0.17692430518184066,6.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1514,2026-11-02 17:21:00,17,0,69.0,Rio de Janeiro,20.3,Supermercado,0,Legítima,0.18758035301561704,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1860,2026-11-13 16:22:00,16,0,62.81,Porto Alegre,42.3,Supermercado,0,Legítima,0.1518278072274853,12.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1137,2026-11-06 15:52:00,15,0,40.65,Porto Alegre,34.0,Streaming,0,Legítima,0.18406576787578272,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1812,2026-11-14 14:52:00,14,0,84.81,São Paulo,3.8,Combustível,0,Legítima,0.16979198233336074,8.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1077,2026-11-08 17:36:00,17,0,77.91,Belo Horizonte,32.4,Streaming,0,Legítima,0.18325307081287073,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1637,2026-11-14 19:48:00,19,0,136.14,Curitiba,19.0,Streaming,0,Legítima,0.14534428739149485,13.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2004,2026-11-05 03:37:00,3,1,12187.67,Kyiv / Ilhas Cayman,8648.7,Serviços Digitais Internacionais,1,Disparidade geográfica extrema (Distância > 2500km),-0.22930564733097503,100.0,1,CRÍTICO,"Valor atípico (R$ 12,187.67) + Horário de risco (03h) + Localidade distante (8649km)"
+TXN-1939,2026-11-07 14:46:00,14,0,83.32,Curitiba,15.8,Streaming,0,Legítima,0.1907961490440625,3.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1900,2026-11-10 11:36:00,11,0,126.18,Curitiba,4.5,Farmácia,0,Legítima,0.15542041155670921,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1281,2026-11-15 17:07:00,17,0,91.85,Rio de Janeiro,6.1,Streaming,0,Legítima,0.1615251425136332,9.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1884,2026-11-09 13:17:00,13,0,18.89,São Paulo,43.8,Streaming,0,Legítima,0.13471855035831615,16.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1762,2026-11-08 12:33:00,12,0,72.4,São Paulo,31.0,Farmácia,0,Legítima,0.19160291082995518,3.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1320,2026-11-07 12:59:00,12,0,20.62,Belo Horizonte,34.8,Combustível,0,Legítima,0.1752847750554652,6.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1550,2026-11-02 19:36:00,19,0,179.47,São Paulo,42.5,Supermercado,0,Legítima,0.10682718324994128,22.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1175,2026-11-14 16:55:00,16,0,119.13,Belo Horizonte,27.6,Alimentação,0,Legítima,0.18713851909032597,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1372,2026-11-07 11:56:00,11,0,314.04,Curitiba,40.8,Streaming,0,Legítima,0.08921127206527557,26.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1528,2026-11-13 12:14:00,12,0,121.15,São Paulo,41.7,Farmácia,0,Legítima,0.15489068241408938,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1211,2026-11-09 10:57:00,10,0,192.75,Belo Horizonte,27.6,Streaming,0,Legítima,0.16614718527282346,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1236,2026-11-13 10:02:00,10,0,121.9,Belo Horizonte,6.6,Streaming,0,Legítima,0.17556067494805416,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1102,2026-11-02 09:03:00,9,0,163.17,Porto Alegre,13.0,Supermercado,0,Legítima,0.16381958981540806,9.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2017,2026-11-15 02:52:00,2,1,13169.64,Kyiv / Ilhas Cayman,4156.8,Serviços Digitais Internacionais,1,Disparidade geográfica extrema (Distância > 2500km),-0.21290378951575517,96.2,1,CRÍTICO,"Valor atípico (R$ 13,169.64) + Horário de risco (02h) + Localidade distante (4157km)"
+TXN-1903,2026-11-04 21:12:00,21,0,300.58,Curitiba,3.6,Alimentação,0,Legítima,5.936432657904778e-05,47.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1948,2026-11-01 12:56:00,12,0,30.84,Curitiba,4.1,Farmácia,0,Legítima,0.16202042068495892,9.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1347,2026-11-11 20:26:00,20,0,204.28,Rio de Janeiro,24.2,Combustível,0,Legítima,0.1054519871438575,22.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1140,2026-11-04 11:51:00,11,0,48.69,São Paulo,39.4,Supermercado,0,Legítima,0.16460858460124433,9.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1622,2026-11-09 10:16:00,10,0,34.84,Belo Horizonte,42.5,Combustível,0,Legítima,0.14423725965373124,13.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1500,2026-11-02 12:52:00,12,0,71.47,Belo Horizonte,37.7,Alimentação,0,Legítima,0.18238097659527752,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1371,2026-11-14 17:24:00,17,0,78.04,Rio de Janeiro,37.6,Farmácia,0,Legítima,0.1687619539863897,8.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1199,2026-11-10 12:17:00,12,0,15.55,Curitiba,13.0,Streaming,0,Legítima,0.17612168258400934,6.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1688,2026-11-07 17:15:00,17,0,426.26,Rio de Janeiro,13.3,Supermercado,0,Legítima,0.07219975174843818,30.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1585,2026-11-04 21:50:00,21,0,318.7,Porto Alegre,13.1,Supermercado,0,Legítima,0.01757669977682641,43.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1902,2026-11-15 07:24:00,7,0,50.4,São Paulo,12.7,Alimentação,0,Legítima,0.1023742027396164,23.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1060,2026-11-12 17:34:00,17,0,179.12,Belo Horizonte,6.5,Combustível,0,Legítima,0.14772263264519753,13.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1329,2026-11-15 09:01:00,9,0,35.89,Porto Alegre,38.2,Alimentação,0,Legítima,0.14752479042063782,13.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1097,2026-11-07 08:17:00,8,0,39.63,São Paulo,26.0,Alimentação,0,Legítima,0.1506710326405566,12.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1313,2026-11-09 14:45:00,14,0,384.14,Porto Alegre,10.5,Supermercado,0,Legítima,0.08152618032342951,28.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2005,2026-11-09 03:59:00,3,1,44021.34,São Paulo,18.5,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.17320594073001416,87.1,1,CRÍTICO,"Valor atípico (R$ 44,021.34) + Horário de risco (03h)"
+TXN-1300,2026-11-07 16:29:00,16,0,32.47,Curitiba,6.3,Combustível,0,Legítima,0.1675323095148193,8.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1278,2026-11-09 09:43:00,9,0,143.52,Porto Alegre,18.2,Farmácia,0,Legítima,0.17542500987955417,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1925,2026-11-09 09:59:00,9,0,28.73,Rio de Janeiro,41.3,Combustível,0,Legítima,0.1340882016334214,16.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1602,2026-11-05 09:23:00,9,0,291.54,São Paulo,17.3,Combustível,0,Legítima,0.12900117720450827,17.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1440,2026-11-14 12:18:00,12,0,21.29,Belo Horizonte,4.4,Streaming,0,Legítima,0.1574425375052133,10.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1838,2026-11-02 15:20:00,15,0,145.54,Rio de Janeiro,8.6,Combustível,0,Legítima,0.170407832751723,7.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1571,2026-11-07 15:53:00,15,0,15.83,Curitiba,5.8,Alimentação,0,Legítima,0.15841382942458898,10.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1880,2026-11-04 09:08:00,9,0,19.35,Porto Alegre,40.6,Alimentação,0,Legítima,0.12921849931896545,17.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1262,2026-11-09 15:54:00,15,0,18.43,Rio de Janeiro,38.4,Combustível,0,Legítima,0.15972129720471584,10.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1579,2026-11-03 16:52:00,16,0,96.51,São Paulo,20.8,Combustível,0,Legítima,0.1967241669873529,1.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1024,2026-11-12 17:01:00,17,0,161.46,Belo Horizonte,28.4,Farmácia,0,Legítima,0.17215658207392315,7.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1031,2026-11-14 17:00:00,17,0,70.19,Rio de Janeiro,5.3,Farmácia,0,Legítima,0.15713403098010664,10.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1618,2026-11-05 15:34:00,15,0,89.16,Curitiba,42.2,Supermercado,0,Legítima,0.15690875946719235,11.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1011,2026-11-01 10:48:00,10,0,30.9,Belo Horizonte,31.9,Combustível,0,Legítima,0.1823315832795423,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1222,2026-11-14 14:52:00,14,0,307.11,Belo Horizonte,6.6,Supermercado,0,Legítima,0.11005286491701793,21.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1821,2026-11-11 18:38:00,18,0,258.2,São Paulo,23.2,Farmácia,0,Legítima,0.13662297511564975,15.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1297,2026-11-10 17:43:00,17,0,347.73,Porto Alegre,28.9,Farmácia,0,Legítima,0.09727185468608462,24.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1055,2026-11-09 08:25:00,8,0,48.75,Porto Alegre,14.7,Alimentação,0,Legítima,0.15211544356739043,12.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1543,2026-11-03 17:18:00,17,0,274.44,Curitiba,0.6,Streaming,0,Legítima,0.06081920008598507,33.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1210,2026-11-03 11:45:00,11,0,107.14,Rio de Janeiro,41.0,Combustível,0,Legítima,0.15913857347239857,10.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1605,2026-11-14 12:14:00,12,0,220.14,Curitiba,33.9,Farmácia,0,Legítima,0.1508439844662232,12.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1693,2026-11-12 15:11:00,15,0,101.11,Rio de Janeiro,9.8,Combustível,0,Legítima,0.17916209260462773,5.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1663,2026-11-06 10:27:00,10,0,37.59,Rio de Janeiro,39.8,Farmácia,0,Legítima,0.1567569328543459,11.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1867,2026-11-15 15:53:00,15,0,165.5,Curitiba,21.7,Supermercado,0,Legítima,0.18622306105331343,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1071,2026-11-09 14:00:00,14,0,133.09,Belo Horizonte,34.5,Farmácia,0,Legítima,0.18318686839045523,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1544,2026-11-09 11:11:00,11,0,31.16,Curitiba,21.0,Alimentação,0,Legítima,0.19182916297049551,3.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1108,2026-11-15 17:55:00,17,0,149.41,Rio de Janeiro,44.6,Streaming,0,Legítima,0.11602126228745896,20.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1494,2026-11-02 10:56:00,10,0,74.54,São Paulo,17.6,Streaming,0,Legítima,0.19306676405458023,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1591,2026-11-10 13:11:00,13,0,52.83,Rio de Janeiro,23.0,Streaming,0,Legítima,0.19666329468276456,1.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1742,2026-11-09 18:26:00,18,0,82.65,Porto Alegre,43.9,Supermercado,0,Legítima,0.12494964700219835,18.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1293,2026-11-03 19:45:00,19,0,21.78,Curitiba,23.6,Farmácia,0,Legítima,0.144849479294879,13.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1290,2026-11-04 09:28:00,9,0,97.27,Belo Horizonte,17.3,Streaming,0,Legítima,0.1807754831224057,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1653,2026-11-05 08:02:00,8,0,31.34,São Paulo,28.9,Supermercado,0,Legítima,0.14603336164281477,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1040,2026-11-03 18:02:00,18,0,39.52,Porto Alegre,43.7,Combustível,0,Legítima,0.12432137002634441,18.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1590,2026-11-05 14:20:00,14,0,158.35,São Paulo,8.7,Farmácia,0,Legítima,0.173461707262411,7.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1308,2026-11-12 10:54:00,10,0,95.17,São Paulo,6.3,Alimentação,0,Legítima,0.1819371599577358,5.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1680,2026-11-13 17:16:00,17,0,96.48,Rio de Janeiro,18.4,Combustível,0,Legítima,0.18849413160708944,3.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1067,2026-11-13 15:30:00,15,0,18.65,Porto Alegre,4.7,Combustível,0,Legítima,0.15573025901798376,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1276,2026-11-11 08:12:00,8,0,50.25,Curitiba,2.5,Streaming,0,Legítima,0.12139207833123733,19.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1068,2026-11-02 16:34:00,16,0,162.41,Belo Horizonte,43.2,Supermercado,0,Legítima,0.13549980407953865,15.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1319,2026-11-04 17:25:00,17,0,39.64,Rio de Janeiro,12.3,Streaming,0,Legítima,0.16977924025159374,8.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1549,2026-11-11 18:30:00,18,0,202.04,Curitiba,29.5,Farmácia,0,Legítima,0.14803777419290898,13.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2029,2026-11-10 15:31:00,15,0,56373.88,Rio de Janeiro,12.5,Joalheria & Artigos de Luxo,1,Ticket ultra elevado fora do perfil de consumo,-0.1338023788755982,78.0,1,CRÍTICO,"Valor atípico (R$ 56,373.88)"
+TXN-1715,2026-11-14 18:44:00,18,0,101.81,Rio de Janeiro,13.3,Farmácia,0,Legítima,0.16355539692698012,9.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1754,2026-11-03 07:49:00,7,0,70.88,São Paulo,29.4,Combustível,0,Legítima,0.10045978454892657,24.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1328,2026-11-13 18:32:00,18,0,100.58,Belo Horizonte,11.8,Alimentação,0,Legítima,0.1546322775221995,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1383,2026-11-06 08:06:00,8,0,56.83,Rio de Janeiro,20.0,Supermercado,0,Legítima,0.16034170220377109,10.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1452,2026-11-12 14:26:00,14,0,192.9,Curitiba,2.1,Streaming,0,Legítima,0.13625865737986287,15.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1523,2026-11-06 14:20:00,14,0,66.15,Belo Horizonte,4.2,Alimentação,0,Legítima,0.17134838759481996,7.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1219,2026-11-13 17:17:00,17,0,95.52,Rio de Janeiro,15.5,Supermercado,0,Legítima,0.17802053991925143,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1788,2026-11-02 11:20:00,11,0,426.43,Belo Horizonte,19.7,Supermercado,0,Legítima,0.07826779628157343,29.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1437,2026-11-08 08:30:00,8,0,68.8,São Paulo,5.8,Combustível,0,Legítima,0.1457694081812821,13.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1765,2026-11-04 16:30:00,16,0,79.93,Curitiba,12.9,Farmácia,0,Legítima,0.18602868826439944,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1089,2026-11-11 11:05:00,11,0,127.46,Belo Horizonte,2.9,Combustível,0,Legítima,0.14608737516519177,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1064,2026-11-05 15:14:00,15,0,125.83,Belo Horizonte,21.9,Streaming,0,Legítima,0.1941356812033116,2.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1827,2026-11-05 13:38:00,13,0,193.96,Rio de Janeiro,28.9,Alimentação,0,Legítima,0.1788594378947011,5.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1717,2026-11-04 09:14:00,9,0,99.68,Rio de Janeiro,29.7,Alimentação,0,Legítima,0.17553244005894786,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1352,2026-11-13 09:31:00,9,0,88.87,São Paulo,28.6,Combustível,0,Legítima,0.18153957483640354,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1937,2026-11-03 13:20:00,13,0,89.14,São Paulo,12.4,Farmácia,0,Legítima,0.189849883832044,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1257,2026-11-07 14:23:00,14,0,194.69,Rio de Janeiro,14.8,Farmácia,0,Legítima,0.17721452016869194,6.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1636,2026-11-02 14:34:00,14,0,30.02,Curitiba,34.4,Streaming,0,Legítima,0.1764760930605182,6.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1645,2026-11-14 14:42:00,14,0,182.6,São Paulo,25.3,Supermercado,0,Legítima,0.1871429024416153,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1555,2026-11-09 15:42:00,15,0,89.83,Curitiba,37.7,Alimentação,0,Legítima,0.17948796975338271,5.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1960,2026-11-05 16:10:00,16,0,62.68,Porto Alegre,1.0,Supermercado,0,Legítima,0.1243740829486848,18.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1169,2026-11-14 09:46:00,9,0,75.82,São Paulo,7.1,Combustível,0,Legítima,0.17340509481254857,7.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1918,2026-11-10 19:45:00,19,0,79.54,Curitiba,28.2,Supermercado,0,Legítima,0.15508065517028263,11.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1529,2026-11-09 12:24:00,12,0,33.11,Belo Horizonte,37.9,Alimentação,0,Legítima,0.1744082580201649,7.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1824,2026-11-04 13:25:00,13,0,20.62,São Paulo,19.9,Combustível,0,Legítima,0.18937715561128604,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2016,2026-11-11 04:39:00,4,1,8822.49,Fronteira Seca,658.0,Saque em Espécie 24h,1,Saque de alto valor na madrugada em local distante,-0.1573082727675087,83.4,1,CRÍTICO,"Valor atípico (R$ 8,822.49) + Horário de risco (04h) + Localidade distante (658km)"
+TXN-1817,2026-11-05 13:18:00,13,0,257.07,Porto Alegre,22.8,Combustível,0,Legítima,0.16308846324978937,9.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1087,2026-11-04 08:27:00,8,0,56.45,Belo Horizonte,33.7,Farmácia,0,Legítima,0.148048527050541,13.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1433,2026-11-13 12:28:00,12,0,26.14,Belo Horizonte,35.4,Streaming,0,Legítima,0.1745779485117826,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1185,2026-11-03 10:27:00,10,0,39.91,Rio de Janeiro,33.2,Farmácia,0,Legítima,0.18030384361837848,5.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2009,2026-11-03 04:39:00,4,1,9206.1,Fronteira Seca,733.9,Saque em Espécie 24h,1,Saque de alto valor na madrugada em local distante,-0.15831612163504805,83.6,1,CRÍTICO,"Valor atípico (R$ 9,206.10) + Horário de risco (04h) + Localidade distante (734km)"
+TXN-1535,2026-11-11 10:44:00,10,0,48.3,Curitiba,42.7,Farmácia,0,Legítima,0.14386433211876565,14.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1295,2026-11-09 08:44:00,8,0,39.98,Belo Horizonte,2.8,Combustível,0,Legítima,0.11940316732519923,19.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1893,2026-11-08 13:01:00,13,0,74.62,São Paulo,1.3,Combustível,0,Legítima,0.15263883444368348,12.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1426,2026-11-12 12:07:00,12,0,162.18,Belo Horizonte,41.9,Alimentação,0,Legítima,0.14690652056896913,13.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1714,2026-11-13 11:13:00,11,0,57.73,Rio de Janeiro,44.9,Supermercado,0,Legítima,0.13387265151604477,16.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1261,2026-11-06 19:50:00,19,0,31.67,Porto Alegre,2.2,Supermercado,0,Legítima,0.10139440027238261,23.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1238,2026-11-03 18:27:00,18,0,31.3,Curitiba,13.4,Combustível,0,Legítima,0.16266211703612393,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1560,2026-11-05 14:31:00,14,0,184.92,Rio de Janeiro,41.6,Farmácia,0,Legítima,0.14507087976340033,13.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1584,2026-11-05 13:44:00,13,0,21.34,Porto Alegre,1.0,Alimentação,0,Legítima,0.1273926554094118,17.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1446,2026-11-06 08:28:00,8,0,57.24,Belo Horizonte,9.3,Alimentação,0,Legítima,0.14737713231121297,13.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1868,2026-11-03 14:26:00,14,0,77.07,São Paulo,5.8,Alimentação,0,Legítima,0.18060214620783582,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1801,2026-11-08 18:23:00,18,0,54.27,Belo Horizonte,24.8,Combustível,0,Legítima,0.17357889609333244,7.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1600,2026-11-15 16:46:00,16,0,21.86,Curitiba,10.9,Alimentação,0,Legítima,0.16825031524419087,8.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1850,2026-11-13 12:56:00,12,0,59.51,Curitiba,0.8,Combustível,0,Legítima,0.12933952936595067,17.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1266,2026-11-03 17:51:00,17,0,248.86,Porto Alegre,17.2,Streaming,0,Legítima,0.14396195311408555,14.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2026,2026-11-02 04:15:00,4,1,15226.97,São Paulo,69.8,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.15085916241190622,81.9,1,CRÍTICO,"Valor atípico (R$ 15,226.97) + Horário de risco (04h)"
+TXN-1530,2026-11-06 12:54:00,12,0,83.25,São Paulo,36.4,Farmácia,0,Legítima,0.18711717083818907,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1056,2026-11-14 13:44:00,13,0,66.93,Curitiba,8.6,Supermercado,0,Legítima,0.18403792276170156,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1121,2026-11-12 20:37:00,20,0,342.29,São Paulo,33.1,Supermercado,0,Legítima,0.04476336973756245,36.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1216,2026-11-13 19:18:00,19,0,104.27,São Paulo,34.5,Combustível,0,Legítima,0.14454301486459242,13.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1026,2026-11-05 13:11:00,13,0,42.96,Belo Horizonte,26.7,Supermercado,0,Legítima,0.19322468665220194,2.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1073,2026-11-02 09:43:00,9,0,202.33,Belo Horizonte,35.0,Farmácia,0,Legítima,0.14019886185610714,14.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1045,2026-11-15 15:18:00,15,0,114.3,Porto Alegre,1.6,Streaming,0,Legítima,0.14742400912983838,13.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1248,2026-11-04 11:20:00,11,0,73.81,Curitiba,40.0,Alimentação,0,Legítima,0.16138023165297227,10.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1722,2026-11-09 20:31:00,20,0,31.96,Curitiba,3.3,Farmácia,0,Legítima,0.07276395502371591,30.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1282,2026-11-09 17:18:00,17,0,64.6,Porto Alegre,43.7,Streaming,0,Legítima,0.13977372860758552,14.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1894,2026-11-10 12:46:00,12,0,122.94,São Paulo,18.2,Supermercado,0,Legítima,0.1929420287675463,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1915,2026-11-04 17:53:00,17,0,43.3,São Paulo,39.0,Streaming,0,Legítima,0.15763068046959905,10.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1811,2026-11-06 12:10:00,12,0,103.2,Rio de Janeiro,14.3,Combustível,0,Legítima,0.18990689941565997,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1245,2026-11-04 08:20:00,8,0,85.86,Curitiba,30.7,Supermercado,0,Legítima,0.15739224551372294,10.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1823,2026-11-06 17:38:00,17,0,96.45,Belo Horizonte,17.5,Supermercado,0,Legítima,0.18507000157983133,4.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1322,2026-11-01 22:52:00,22,0,23.76,Porto Alegre,36.5,Farmácia,0,Legítima,0.023040075589415343,41.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1644,2026-11-05 20:14:00,20,0,107.96,Belo Horizonte,40.5,Alimentação,0,Legítima,0.09238250974628154,25.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1159,2026-11-06 07:44:00,7,0,16.74,Belo Horizonte,32.8,Supermercado,0,Legítima,0.08146080596214011,28.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2008,2026-11-11 18:07:00,18,0,62054.82,Rio de Janeiro,23.4,Joalheria & Artigos de Luxo,1,Ticket ultra elevado fora do perfil de consumo,-0.13342872893263535,77.9,1,CRÍTICO,"Valor atípico (R$ 62,054.82)"
+TXN-1430,2026-11-06 11:58:00,11,0,68.22,São Paulo,12.5,Streaming,0,Legítima,0.18890413680881285,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1942,2026-11-02 11:33:00,11,0,36.27,Curitiba,28.0,Farmácia,0,Legítima,0.18681750255300034,4.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1463,2026-11-03 10:07:00,10,0,50.63,Curitiba,26.3,Farmácia,0,Legítima,0.18305120564136346,5.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1310,2026-11-08 19:21:00,19,0,69.1,São Paulo,44.9,Streaming,0,Legítima,0.0951768830341837,25.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1698,2026-11-15 11:31:00,11,0,209.57,São Paulo,43.7,Streaming,0,Legítima,0.11242045322875172,21.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1061,2026-11-08 13:19:00,13,0,108.97,Porto Alegre,17.6,Farmácia,0,Legítima,0.19709530295772265,1.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1885,2026-11-10 15:53:00,15,0,47.21,Rio de Janeiro,7.1,Alimentação,0,Legítima,0.17474767266027041,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1596,2026-11-10 13:49:00,13,0,42.65,Porto Alegre,4.9,Streaming,0,Legítima,0.17235774040726265,7.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1768,2026-11-06 15:00:00,15,0,85.08,Curitiba,25.6,Alimentação,0,Legítima,0.1982865751970881,1.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1650,2026-11-12 10:58:00,10,0,239.8,Rio de Janeiro,43.2,Supermercado,0,Legítima,0.09128949643911816,26.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1651,2026-11-10 14:10:00,14,0,140.85,Curitiba,37.0,Combustível,0,Legítima,0.1776806538780349,6.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1866,2026-11-08 11:41:00,11,0,34.2,Belo Horizonte,24.6,Alimentação,0,Legítima,0.186114617837413,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1669,2026-11-05 14:07:00,14,0,82.24,Curitiba,29.3,Combustível,0,Legítima,0.19538799195225132,2.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1299,2026-11-06 20:42:00,20,0,86.58,Belo Horizonte,23.0,Streaming,0,Legítima,0.12553480357545765,18.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1690,2026-11-07 20:48:00,20,0,79.75,Belo Horizonte,18.7,Farmácia,0,Legítima,0.12486782257251583,18.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1315,2026-11-10 11:49:00,11,0,203.35,Curitiba,25.3,Alimentação,0,Legítima,0.16419494052130695,9.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1311,2026-11-14 14:26:00,14,0,333.62,Curitiba,21.0,Combustível,0,Legítima,0.12574769935546193,18.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1362,2026-11-10 13:04:00,13,0,100.63,Porto Alegre,24.0,Farmácia,0,Legítima,0.19919180914922335,1.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1480,2026-11-07 20:29:00,20,0,173.6,Porto Alegre,5.3,Farmácia,0,Legítima,0.07236989469875577,30.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1111,2026-11-04 08:37:00,8,0,105.31,São Paulo,26.6,Farmácia,0,Legítima,0.1568727150231607,11.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2020,2026-11-01 01:20:00,1,1,27224.84,São Paulo,32.3,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.16035962968269224,84.1,1,CRÍTICO,"Valor atípico (R$ 27,224.84) + Horário de risco (01h)"
+TXN-1487,2026-11-07 08:28:00,8,0,137.21,Belo Horizonte,29.8,Farmácia,0,Legítima,0.15202027734820278,12.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1364,2026-11-08 19:20:00,19,0,99.24,Porto Alegre,20.6,Streaming,0,Legítima,0.15233645095585152,12.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1255,2026-11-06 14:34:00,14,0,48.13,Curitiba,28.7,Farmácia,0,Legítima,0.19194106202097688,2.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1260,2026-11-14 17:58:00,17,0,24.37,São Paulo,2.8,Combustível,0,Legítima,0.13042656898047345,17.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1803,2026-11-07 17:53:00,17,0,194.38,Belo Horizonte,41.6,Supermercado,0,Legítima,0.12784607138117166,17.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1678,2026-11-10 09:47:00,9,0,36.74,Curitiba,2.9,Farmácia,0,Legítima,0.14690973150900033,13.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1495,2026-11-13 16:48:00,16,0,32.59,Porto Alegre,43.2,Combustível,0,Legítima,0.1370748766348477,15.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1671,2026-11-07 13:43:00,13,0,16.88,Belo Horizonte,20.7,Streaming,0,Legítima,0.18772607358348264,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1378,2026-11-01 14:48:00,14,0,162.2,São Paulo,27.5,Supermercado,0,Legítima,0.18653721345244345,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1527,2026-11-12 16:55:00,16,0,45.52,São Paulo,44.7,Streaming,0,Legítima,0.1272110552986943,17.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1846,2026-11-07 08:33:00,8,0,498.54,Porto Alegre,43.2,Alimentação,0,Legítima,-0.001636759289964429,47.5,1,MÉDIO,Padrão multidimensional divergente do cluster usual
+TXN-1138,2026-11-05 14:58:00,14,0,125.4,Rio de Janeiro,15.0,Alimentação,0,Legítima,0.18807740443373366,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1356,2026-11-02 17:52:00,17,0,55.63,Rio de Janeiro,10.1,Alimentação,0,Legítima,0.16612966239599508,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1366,2026-11-12 16:32:00,16,0,21.99,Rio de Janeiro,7.4,Farmácia,0,Legítima,0.16587080101748902,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1943,2026-11-02 18:55:00,18,0,62.18,Rio de Janeiro,16.7,Farmácia,0,Legítima,0.16721986847961856,8.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1750,2026-11-13 15:39:00,15,0,234.86,Rio de Janeiro,31.8,Farmácia,0,Legítima,0.1529177317951665,11.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1949,2026-11-10 11:46:00,11,0,37.46,Belo Horizonte,41.3,Streaming,0,Legítima,0.1583558160722927,10.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1830,2026-11-15 14:33:00,14,0,182.06,Belo Horizonte,32.8,Streaming,0,Legítima,0.1776253302555717,6.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1657,2026-11-04 11:26:00,11,0,23.52,Porto Alegre,1.6,Supermercado,0,Legítima,0.13440850314578284,16.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1200,2026-11-07 08:23:00,8,0,27.56,Curitiba,28.6,Supermercado,0,Legítima,0.14513748340408694,13.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1214,2026-11-15 12:10:00,12,0,94.67,Rio de Janeiro,24.7,Alimentação,0,Legítima,0.1943861495292296,2.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1409,2026-11-15 13:09:00,13,0,92.64,São Paulo,2.8,Supermercado,0,Legítima,0.1624170720148621,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1333,2026-11-12 09:07:00,9,0,123.65,São Paulo,20.1,Combustível,0,Legítima,0.18325387126714626,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1209,2026-11-13 16:56:00,16,0,47.2,Porto Alegre,6.3,Combustível,0,Legítima,0.1701537521432836,7.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1614,2026-11-04 11:55:00,11,0,43.67,Belo Horizonte,41.4,Farmácia,0,Legítima,0.16122760576014855,10.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1079,2026-11-11 14:01:00,14,0,16.21,São Paulo,37.2,Farmácia,0,Legítima,0.16432157750929516,9.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1030,2026-11-05 11:57:00,11,0,59.87,Porto Alegre,1.5,Farmácia,0,Legítima,0.14792314824185343,13.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1536,2026-11-14 12:03:00,12,0,184.91,Curitiba,7.9,Streaming,0,Legítima,0.16156596014901797,9.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1696,2026-11-07 17:54:00,17,0,123.77,Rio de Janeiro,29.2,Supermercado,0,Legítima,0.1798045289856377,5.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1558,2026-11-05 10:38:00,10,0,89.88,Belo Horizonte,7.9,Supermercado,0,Legítima,0.18570391208732157,4.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1837,2026-11-07 11:03:00,11,0,33.97,Curitiba,8.8,Farmácia,0,Legítima,0.17987118479982545,5.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1597,2026-11-09 17:38:00,17,0,76.56,Rio de Janeiro,4.3,Combustível,0,Legítima,0.15032921262163518,12.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1166,2026-11-10 10:37:00,10,0,355.67,Curitiba,30.7,Alimentação,0,Legítima,0.1007396164849057,23.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1919,2026-11-05 17:52:00,17,0,16.18,Rio de Janeiro,20.4,Alimentação,0,Legítima,0.17102546582865752,7.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1496,2026-11-01 12:11:00,12,0,67.21,Porto Alegre,23.7,Streaming,0,Legítima,0.1952986943864804,2.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1825,2026-11-04 12:59:00,12,0,226.65,Rio de Janeiro,21.6,Farmácia,0,Legítima,0.16481857924382648,9.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1066,2026-11-10 13:45:00,13,0,59.03,São Paulo,9.5,Combustível,0,Legítima,0.18385887453946897,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1142,2026-11-15 13:56:00,13,0,61.26,Rio de Janeiro,40.7,Streaming,0,Legítima,0.16185160156411021,9.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1926,2026-11-02 12:09:00,12,0,18.51,Belo Horizonte,15.6,Streaming,0,Legítima,0.17797337603302538,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1828,2026-11-01 10:42:00,10,0,65.6,Rio de Janeiro,20.9,Farmácia,0,Legítima,0.1945525150327771,2.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1656,2026-11-08 16:57:00,16,0,87.67,São Paulo,42.4,Supermercado,0,Legítima,0.15243717927940575,12.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1332,2026-11-14 08:51:00,8,0,216.64,São Paulo,34.3,Combustível,0,Legítima,0.11952042255111395,19.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1665,2026-11-08 09:41:00,9,0,55.99,Porto Alegre,26.7,Combustível,0,Legítima,0.17698394143935525,6.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1250,2026-11-13 09:11:00,9,0,116.71,São Paulo,23.9,Streaming,0,Legítima,0.17538617572002124,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1908,2026-11-03 18:49:00,18,0,135.85,Curitiba,9.0,Streaming,0,Legítima,0.13939792560398157,15.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1709,2026-11-08 18:00:00,18,0,33.59,Rio de Janeiro,34.4,Alimentação,0,Legítima,0.15565038415553534,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1306,2026-11-12 17:34:00,17,0,156.35,Rio de Janeiro,37.0,Farmácia,0,Legítima,0.1624718342715855,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1735,2026-11-01 11:35:00,11,0,18.79,São Paulo,39.8,Farmácia,0,Legítima,0.14907737831751666,12.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2006,2026-11-04 03:27:00,3,1,18979.06,São Paulo,42.6,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.1455679572767543,80.7,1,CRÍTICO,"Valor atípico (R$ 18,979.06) + Horário de risco (03h)"
+TXN-1050,2026-11-06 12:07:00,12,0,38.11,São Paulo,39.1,Combustível,0,Legítima,0.16550178987639946,9.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1897,2026-11-05 12:51:00,12,0,71.35,Porto Alegre,4.3,Alimentação,0,Legítima,0.17094583522724727,7.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1003,2026-11-14 12:10:00,12,0,179.48,Curitiba,20.2,Streaming,0,Legítima,0.18504123374455617,4.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1545,2026-11-08 10:03:00,10,0,152.71,São Paulo,4.6,Farmácia,0,Legítima,0.15488584259243016,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1351,2026-11-02 09:11:00,9,0,19.74,São Paulo,3.8,Streaming,0,Legítima,0.1406360386016649,14.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1905,2026-11-11 16:31:00,16,0,19.63,Rio de Janeiro,44.6,Combustível,0,Legítima,0.12010953302752786,19.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1537,2026-11-01 17:32:00,17,0,176.95,Porto Alegre,31.1,Streaming,0,Legítima,0.1695547187706804,8.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1345,2026-11-13 10:31:00,10,0,165.77,Belo Horizonte,10.1,Streaming,0,Legítima,0.1687533806899163,8.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2025,2026-11-05 02:11:00,2,1,35892.49,São Paulo,23.3,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.15874753500920902,83.7,1,CRÍTICO,"Valor atípico (R$ 35,892.49) + Horário de risco (02h)"
+TXN-1482,2026-11-12 10:45:00,10,0,33.35,São Paulo,32.8,Streaming,0,Legítima,0.17770845352041253,6.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1576,2026-11-15 09:23:00,9,0,22.49,Porto Alegre,19.2,Combustível,0,Legítima,0.17472036138027575,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1034,2026-11-13 12:18:00,12,0,49.04,Porto Alegre,42.9,Alimentação,0,Legítima,0.15653070752096943,11.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1032,2026-11-05 15:07:00,15,0,78.52,Belo Horizonte,34.7,Combustível,0,Legítima,0.18873507371244597,3.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1232,2026-11-13 09:03:00,9,0,129.61,Curitiba,37.0,Farmácia,0,Legítima,0.15148431939788365,12.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1964,2026-11-02 09:51:00,9,0,183.33,Curitiba,28.5,Farmácia,0,Legítima,0.16218793595010195,9.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1193,2026-11-15 13:50:00,13,0,30.76,Rio de Janeiro,9.7,Farmácia,0,Legítima,0.18008621830079657,5.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1334,2026-11-08 18:11:00,18,0,119.52,São Paulo,33.8,Streaming,0,Legítima,0.16085663139844247,10.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1004,2026-11-09 10:05:00,10,0,44.94,Porto Alegre,28.6,Streaming,0,Legítima,0.18741839406367217,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1205,2026-11-12 12:44:00,12,0,96.47,Porto Alegre,32.5,Farmácia,0,Legítima,0.1900906705630806,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1515,2026-11-03 11:12:00,11,0,65.82,São Paulo,34.7,Farmácia,0,Legítima,0.18626684592560977,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1800,2026-11-15 17:15:00,17,0,214.69,Belo Horizonte,21.9,Combustível,0,Legítima,0.16336415646284214,9.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1307,2026-11-06 10:20:00,10,0,31.45,Rio de Janeiro,17.9,Farmácia,0,Legítima,0.1852207674320966,4.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1110,2026-11-08 12:28:00,12,0,36.82,Rio de Janeiro,40.9,Supermercado,0,Legítima,0.16091494043586985,10.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1431,2026-11-07 18:55:00,18,0,101.5,Belo Horizonte,19.1,Farmácia,0,Legítima,0.1756741897525549,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1078,2026-11-02 20:25:00,20,0,117.89,Porto Alegre,5.9,Combustível,0,Legítima,0.08535687503092304,27.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1085,2026-11-13 14:58:00,14,0,48.74,Rio de Janeiro,3.0,Streaming,0,Legítima,0.16434401529402454,9.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1287,2026-11-01 10:33:00,10,0,24.37,Porto Alegre,9.2,Supermercado,0,Legítima,0.17505527824301104,6.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1083,2026-11-04 07:14:00,7,0,70.49,Porto Alegre,9.3,Combustível,0,Legítima,0.10635863416356289,22.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2022,2026-11-14 02:41:00,2,1,34211.51,São Paulo,38.8,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.15500029576317287,82.9,1,CRÍTICO,"Valor atípico (R$ 34,211.51) + Horário de risco (02h)"
+TXN-1790,2026-11-04 08:37:00,8,0,22.87,Belo Horizonte,22.5,Supermercado,0,Legítima,0.14423267120002609,13.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1895,2026-11-03 12:51:00,12,0,342.61,São Paulo,26.7,Alimentação,0,Legítima,0.11203242048593359,21.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1399,2026-11-08 18:41:00,18,0,26.63,Rio de Janeiro,31.1,Supermercado,0,Legítima,0.15770707868908135,10.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1324,2026-11-07 10:33:00,10,0,83.35,Belo Horizonte,29.1,Streaming,0,Legítima,0.18782248456674333,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1520,2026-11-08 17:31:00,17,0,261.13,São Paulo,22.5,Alimentação,0,Legítima,0.1486469956479194,12.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1917,2026-11-09 09:28:00,9,0,112.13,Belo Horizonte,10.1,Farmácia,0,Legítima,0.17647796411645983,6.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1923,2026-11-05 10:45:00,10,0,55.43,Rio de Janeiro,36.2,Streaming,0,Legítima,0.1719836234197139,7.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1006,2026-11-08 10:21:00,10,0,22.32,Curitiba,30.9,Supermercado,0,Legítima,0.17957665002679507,5.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1732,2026-11-07 10:59:00,10,0,87.18,São Paulo,4.7,Supermercado,0,Legítima,0.17260339579248424,7.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1466,2026-11-11 08:31:00,8,0,78.59,São Paulo,3.5,Combustível,0,Legítima,0.13757000961932486,15.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1098,2026-11-11 14:35:00,14,0,161.28,Curitiba,14.6,Combustível,0,Legítima,0.1844588190839157,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1267,2026-11-13 09:23:00,9,0,142.12,Rio de Janeiro,44.2,Farmácia,0,Legítima,0.11035620972508126,21.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1358,2026-11-10 14:17:00,14,0,88.2,São Paulo,6.5,Combustível,0,Legítima,0.18155534505784865,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1869,2026-11-03 13:05:00,13,0,147.32,Rio de Janeiro,32.7,Supermercado,0,Legítima,0.18162005432396833,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1799,2026-11-04 16:53:00,16,0,93.4,Curitiba,40.7,Alimentação,0,Legítima,0.15501102545223117,11.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1381,2026-11-10 10:48:00,10,0,58.42,São Paulo,42.9,Farmácia,0,Legítima,0.1433046373468747,14.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1632,2026-11-06 18:44:00,18,0,16.05,São Paulo,42.2,Farmácia,0,Legítima,0.11321164407889706,21.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1382,2026-11-05 13:33:00,13,0,106.65,Belo Horizonte,10.5,Alimentação,0,Legítima,0.18350294625852864,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1491,2026-11-09 17:22:00,17,0,91.55,Rio de Janeiro,20.4,Alimentação,0,Legítima,0.19259263969462587,2.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1119,2026-11-05 07:24:00,7,0,171.36,Curitiba,44.2,Combustível,0,Legítima,0.0517986919265917,35.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1901,2026-11-13 15:25:00,15,0,29.63,São Paulo,2.7,Alimentação,0,Legítima,0.15281323479244185,11.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1251,2026-11-01 22:26:00,22,0,146.76,São Paulo,42.7,Alimentação,0,Legítima,0.012097326772515404,44.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1524,2026-11-14 13:49:00,13,0,161.62,Belo Horizonte,19.6,Farmácia,0,Legítima,0.1939053273760309,2.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1010,2026-11-06 17:50:00,17,0,41.6,Rio de Janeiro,6.7,Combustível,0,Legítima,0.16191109453390956,9.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1197,2026-11-06 19:40:00,19,0,26.66,Porto Alegre,35.9,Alimentação,0,Legítima,0.1364647632230942,15.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1604,2026-11-10 16:43:00,16,0,16.02,Rio de Janeiro,28.8,Supermercado,0,Legítima,0.17150862798068417,7.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1082,2026-11-10 22:01:00,22,0,183.77,Belo Horizonte,40.4,Supermercado,0,Legítima,0.01457668418248903,43.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1784,2026-11-14 10:12:00,10,0,33.5,Belo Horizonte,39.5,Supermercado,0,Legítima,0.15461276222797649,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1588,2026-11-03 11:41:00,11,0,15.75,Rio de Janeiro,41.2,Alimentação,0,Legítima,0.14532393633413504,13.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1798,2026-11-09 14:15:00,14,0,98.16,Porto Alegre,4.4,Farmácia,0,Legítima,0.16841189012406332,8.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1240,2026-11-01 07:31:00,7,0,57.52,Rio de Janeiro,12.1,Farmácia,0,Legítima,0.10427294018044458,23.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1291,2026-11-09 16:07:00,16,0,63.24,Belo Horizonte,29.6,Alimentação,0,Legítima,0.18125128111830302,5.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1212,2026-11-10 10:18:00,10,0,113.16,Belo Horizonte,18.3,Streaming,0,Legítima,0.1893913806829195,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1718,2026-11-10 11:31:00,11,0,70.3,Porto Alegre,31.4,Combustível,0,Legítima,0.19102051867931685,3.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1360,2026-11-02 12:26:00,12,0,52.17,Rio de Janeiro,33.6,Farmácia,0,Legítima,0.1886644674062083,3.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1450,2026-11-07 21:48:00,21,0,33.08,Curitiba,6.1,Farmácia,0,Legítima,0.04798926411096194,36.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1228,2026-11-05 12:23:00,12,0,147.74,Belo Horizonte,22.4,Streaming,0,Legítima,0.18891505472227715,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1951,2026-11-11 09:08:00,9,0,93.51,Porto Alegre,12.7,Supermercado,0,Legítima,0.1786317003691681,6.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1947,2026-11-11 10:32:00,10,0,439.71,Rio de Janeiro,0.7,Alimentação,0,Legítima,0.023137490048216747,41.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1797,2026-11-04 14:17:00,14,0,43.81,São Paulo,2.4,Streaming,0,Legítima,0.15956232095051498,10.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1502,2026-11-06 14:48:00,14,0,83.61,Rio de Janeiro,7.2,Streaming,0,Legítima,0.18448798708254682,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1465,2026-11-06 18:49:00,18,0,38.91,Belo Horizonte,8.1,Supermercado,0,Legítima,0.15001568437320673,12.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1363,2026-11-12 14:59:00,14,0,17.33,Curitiba,21.9,Farmácia,0,Legítima,0.18643520695336824,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1469,2026-11-08 13:01:00,13,0,117.32,Curitiba,37.5,Supermercado,0,Legítima,0.17330377096709954,7.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1936,2026-11-09 18:26:00,18,0,37.43,Porto Alegre,26.8,Alimentação,0,Legítima,0.16973646395802833,8.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1429,2026-11-05 09:45:00,9,0,56.58,Porto Alegre,20.4,Supermercado,0,Legítima,0.18359952691267323,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1008,2026-11-02 10:27:00,10,0,45.58,Rio de Janeiro,30.3,Alimentação,0,Legítima,0.18592758932680836,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1156,2026-11-04 17:17:00,17,0,204.8,Curitiba,27.4,Farmácia,0,Legítima,0.16083639903771202,10.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1542,2026-11-06 17:15:00,17,0,78.18,Curitiba,33.5,Supermercado,0,Legítima,0.17949980216458988,5.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1441,2026-11-14 09:35:00,9,0,79.97,Rio de Janeiro,16.3,Alimentação,0,Legítima,0.18415457721643613,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1483,2026-11-11 08:03:00,8,0,117.5,Rio de Janeiro,37.4,Combustível,0,Legítima,0.13399447024008038,16.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1423,2026-11-05 11:20:00,11,0,23.19,Belo Horizonte,9.5,Supermercado,0,Legítima,0.17453821771256645,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1779,2026-11-04 12:29:00,12,0,70.73,São Paulo,41.6,Alimentação,0,Legítima,0.16448312048603098,9.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1950,2026-11-15 14:23:00,14,0,113.69,São Paulo,33.9,Alimentação,0,Legítima,0.18694383424560862,4.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1335,2026-11-02 11:25:00,11,0,48.98,Rio de Janeiro,23.0,Farmácia,0,Legítima,0.19075213923099238,3.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1577,2026-11-14 12:26:00,12,0,56.05,Curitiba,17.4,Streaming,0,Legítima,0.19278696953184443,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1935,2026-11-06 10:04:00,10,0,92.25,Curitiba,27.7,Alimentação,0,Legítima,0.18756618855719132,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1568,2026-11-10 19:27:00,19,0,99.12,São Paulo,20.9,Combustível,0,Legítima,0.1510041237734449,12.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1595,2026-11-13 17:55:00,17,0,49.87,Porto Alegre,25.6,Farmácia,0,Legítima,0.18813880890944062,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1531,2026-11-02 18:36:00,18,0,63.36,Rio de Janeiro,27.8,Farmácia,0,Legítima,0.16796267070185866,8.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1582,2026-11-11 14:15:00,14,0,140.12,Curitiba,31.5,Alimentação,0,Legítima,0.1910149626848488,3.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1708,2026-11-11 13:31:00,13,0,35.59,Rio de Janeiro,36.6,Streaming,0,Legítima,0.17730066258888233,6.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1449,2026-11-12 18:54:00,18,0,25.11,Belo Horizonte,31.6,Farmácia,0,Legítima,0.1545366663272924,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1454,2026-11-06 10:53:00,10,0,246.09,Rio de Janeiro,4.7,Alimentação,0,Legítima,0.12081587810296673,19.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1229,2026-11-03 18:16:00,18,0,303.64,Porto Alegre,7.3,Supermercado,0,Legítima,0.09142160357419282,26.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1353,2026-11-10 18:18:00,18,0,84.84,Porto Alegre,20.4,Combustível,0,Legítima,0.17810824459313745,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1729,2026-11-02 10:20:00,10,0,176.73,São Paulo,16.5,Farmácia,0,Legítima,0.17575493053947872,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1213,2026-11-01 15:32:00,15,0,49.88,Belo Horizonte,27.7,Streaming,0,Legítima,0.18871895214139878,3.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1080,2026-11-07 11:58:00,11,0,46.73,São Paulo,41.4,Alimentação,0,Legítima,0.1615107663290603,9.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1149,2026-11-08 13:16:00,13,0,43.36,Curitiba,35.2,Farmácia,0,Legítima,0.18095836311487462,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1303,2026-11-14 13:11:00,13,0,209.28,São Paulo,8.3,Combustível,0,Legítima,0.15982422220488202,10.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1629,2026-11-03 20:56:00,20,0,138.98,São Paulo,31.2,Combustível,0,Legítima,0.10937775982202858,22.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1778,2026-11-05 12:10:00,12,0,54.91,Porto Alegre,29.9,Farmácia,0,Legítima,0.19351263914195793,2.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1507,2026-11-03 20:26:00,20,0,25.35,Porto Alegre,24.7,Alimentação,0,Legítima,0.11852793092336184,19.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1343,2026-11-08 14:36:00,14,0,27.28,Curitiba,39.0,Alimentação,0,Legítima,0.15786622371218084,10.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1486,2026-11-04 10:00:00,10,0,104.51,Rio de Janeiro,25.9,Farmácia,0,Legítima,0.18488210330591331,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1712,2026-11-07 17:37:00,17,0,230.17,Rio de Janeiro,36.1,Streaming,0,Legítima,0.13823534786492564,15.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1134,2026-11-03 12:32:00,12,0,169.21,São Paulo,31.7,Streaming,0,Legítima,0.17587737170709,6.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1704,2026-11-14 11:20:00,11,0,190.02,Curitiba,10.5,Streaming,0,Legítima,0.162157649590488,9.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1312,2026-11-01 09:42:00,9,0,308.69,Curitiba,18.6,Farmácia,0,Legítima,0.12987617457515088,17.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1723,2026-11-04 17:04:00,17,0,168.39,Curitiba,12.8,Farmácia,0,Legítima,0.16473889278818288,9.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1630,2026-11-03 09:03:00,9,0,30.26,Porto Alegre,44.4,Combustível,0,Legítima,0.11480214248131881,20.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1001,2026-11-07 16:39:00,16,0,241.55,São Paulo,4.7,Combustível,0,Legítima,0.11829425199907428,19.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1317,2026-11-13 12:03:00,12,0,108.37,Belo Horizonte,8.3,Supermercado,0,Legítima,0.1780056814578036,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1707,2026-11-12 11:02:00,11,0,49.7,Curitiba,28.2,Streaming,0,Legítima,0.191556055313504,3.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1548,2026-11-13 16:31:00,16,0,21.05,Curitiba,36.0,Streaming,0,Legítima,0.17035306307129416,7.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1873,2026-11-10 13:14:00,13,0,179.98,Curitiba,8.5,Farmácia,0,Legítima,0.1702075450328383,7.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1533,2026-11-13 13:47:00,13,0,45.43,São Paulo,36.1,Alimentação,0,Legítima,0.18130360356133335,5.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1478,2026-11-12 17:41:00,17,0,170.93,Rio de Janeiro,11.5,Streaming,0,Legítima,0.1586601457832829,10.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1405,2026-11-15 17:50:00,17,0,17.26,Porto Alegre,34.5,Combustível,0,Legítima,0.1586859215929357,10.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1173,2026-11-14 09:46:00,9,0,66.86,Porto Alegre,4.9,Combustível,0,Legítima,0.1635925949703737,9.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1126,2026-11-14 17:15:00,17,0,245.19,Rio de Janeiro,17.1,Supermercado,0,Legítima,0.146110570510036,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1395,2026-11-04 19:07:00,19,0,120.08,Belo Horizonte,7.2,Streaming,0,Legítima,0.12145081422494375,19.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1421,2026-11-01 11:15:00,11,0,39.62,Belo Horizonte,12.7,Alimentação,0,Legítima,0.18416207848291122,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1553,2026-11-08 15:33:00,15,0,23.79,Curitiba,5.7,Supermercado,0,Legítima,0.16074569335342725,10.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1904,2026-11-01 15:14:00,15,0,97.46,Rio de Janeiro,33.7,Alimentação,0,Legítima,0.18801510397701565,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1091,2026-11-03 09:46:00,9,0,147.16,Curitiba,35.4,Farmácia,0,Legítima,0.15466738717980028,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1940,2026-11-14 10:53:00,10,0,105.24,Belo Horizonte,2.7,Combustível,0,Legítima,0.1547239913897161,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1182,2026-11-14 16:18:00,16,0,35.03,São Paulo,44.2,Streaming,0,Legítima,0.13346544278300437,16.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1275,2026-11-01 12:21:00,12,0,271.69,Rio de Janeiro,43.2,Streaming,0,Legítima,0.09786255255907733,24.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1896,2026-11-14 13:51:00,13,0,69.89,Curitiba,13.9,Supermercado,0,Legítima,0.19464697709927592,2.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1070,2026-11-09 10:43:00,10,0,20.8,Curitiba,8.1,Combustível,0,Legítima,0.17361466197569303,7.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1292,2026-11-07 15:09:00,15,0,20.51,Belo Horizonte,8.0,Combustível,0,Legítima,0.1651633929998439,9.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1132,2026-11-05 12:06:00,12,0,147.41,Porto Alegre,4.3,Supermercado,0,Legítima,0.15380688051168823,11.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1301,2026-11-10 10:22:00,10,0,198.49,Rio de Janeiro,12.6,Streaming,0,Legítima,0.16296450206485957,9.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1425,2026-11-12 11:01:00,11,0,242.76,Belo Horizonte,40.3,Streaming,0,Legítima,0.11296277640303792,21.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1327,2026-11-03 10:10:00,10,0,67.26,Rio de Janeiro,35.9,Alimentação,0,Legítima,0.17333330840498112,7.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1145,2026-11-01 09:17:00,9,0,158.63,Curitiba,20.8,Supermercado,0,Legítima,0.1750794981362691,6.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1424,2026-11-15 16:35:00,16,0,117.7,São Paulo,24.2,Farmácia,0,Legítima,0.1916739875657339,3.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1581,2026-11-01 22:33:00,22,0,29.53,São Paulo,3.2,Combustível,0,Legítima,0.006304677819441551,45.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1136,2026-11-02 12:04:00,12,0,34.25,Curitiba,20.7,Supermercado,0,Legítima,0.19597983434803684,2.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1451,2026-11-08 16:01:00,16,0,274.73,Porto Alegre,28.5,Streaming,0,Legítima,0.1454302848671956,13.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1165,2026-11-01 17:11:00,17,0,117.56,São Paulo,39.4,Alimentação,0,Legítima,0.1511216629827707,12.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1029,2026-11-08 13:40:00,13,0,168.32,São Paulo,21.6,Farmácia,0,Legítima,0.1929116250659837,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1774,2026-11-10 19:56:00,19,0,86.83,São Paulo,6.4,Farmácia,0,Legítima,0.12819894166019835,17.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1194,2026-11-01 10:52:00,10,0,46.65,São Paulo,14.8,Streaming,0,Legítima,0.1895041870426964,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1389,2026-11-09 20:11:00,20,0,27.78,São Paulo,27.8,Streaming,0,Legítima,0.11693549013634813,20.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1853,2026-11-09 08:45:00,8,0,132.23,Curitiba,20.3,Farmácia,0,Legítima,0.1554581141084807,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1170,2026-11-03 20:15:00,20,0,25.37,Porto Alegre,41.1,Streaming,0,Legítima,0.0824140684537833,28.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1706,2026-11-13 17:27:00,17,0,79.61,Rio de Janeiro,23.6,Alimentação,0,Legítima,0.18740602340617363,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1141,2026-11-09 11:03:00,11,0,35.5,Curitiba,20.0,Combustível,0,Legítima,0.19132386007892405,3.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1174,2026-11-12 10:25:00,10,0,20.38,Rio de Janeiro,17.3,Streaming,0,Legítima,0.176221099643396,6.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1007,2026-11-15 16:21:00,16,0,82.31,Porto Alegre,21.4,Alimentação,0,Legítima,0.19660537381293497,1.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1746,2026-11-12 12:09:00,12,0,80.2,Rio de Janeiro,12.1,Alimentação,0,Legítima,0.19034047930882675,3.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1479,2026-11-05 14:44:00,14,0,76.52,Curitiba,30.8,Streaming,0,Legítima,0.19535902544256195,2.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1074,2026-11-06 15:43:00,15,0,105.19,Porto Alegre,12.5,Combustível,0,Legítima,0.18327130846927137,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1911,2026-11-14 13:25:00,13,0,201.58,São Paulo,11.0,Streaming,0,Legítima,0.16574285204136802,9.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1814,2026-11-05 10:12:00,10,0,68.34,São Paulo,31.1,Combustível,0,Legítima,0.18618050144054282,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1239,2026-11-09 16:00:00,16,0,97.91,Rio de Janeiro,32.1,Streaming,0,Legítima,0.18566804058870545,4.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1146,2026-11-05 13:47:00,13,0,21.33,Porto Alegre,17.6,Supermercado,0,Legítima,0.18486310084843272,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1793,2026-11-15 22:52:00,22,0,126.64,Belo Horizonte,14.9,Supermercado,0,Legítima,0.031230853631740163,40.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1235,2026-11-12 10:38:00,10,0,34.15,Belo Horizonte,8.3,Supermercado,0,Legítima,0.18440824437283648,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1221,2026-11-15 12:27:00,12,0,59.14,Porto Alegre,19.3,Supermercado,0,Legítima,0.20015086440478602,1.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1924,2026-11-02 09:40:00,9,0,101.72,Belo Horizonte,39.8,Streaming,0,Legítima,0.14342145725324373,14.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1501,2026-11-04 09:01:00,9,0,57.78,Porto Alegre,7.8,Alimentação,0,Legítima,0.17269096550951013,7.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1133,2026-11-11 11:26:00,11,0,158.13,Curitiba,13.7,Streaming,0,Legítima,0.17487323691619905,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2021,2026-11-10 02:37:00,2,1,21346.43,Kyiv / Ilhas Cayman,2995.6,Serviços Digitais Internacionais,1,Disparidade geográfica extrema (Distância > 2500km),-0.20286494007923117,93.9,1,CRÍTICO,"Valor atípico (R$ 21,346.43) + Horário de risco (02h) + Localidade distante (2996km)"
+TXN-1775,2026-11-03 10:25:00,10,0,116.44,Belo Horizonte,24.1,Combustível,0,Legítima,0.18242820610353688,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1186,2026-11-06 11:50:00,11,0,87.82,São Paulo,34.9,Combustível,0,Legítima,0.18587669907095183,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1042,2026-11-02 15:58:00,15,0,80.0,Porto Alegre,26.4,Combustível,0,Legítima,0.19384733941366855,2.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1697,2026-11-09 16:01:00,16,0,75.07,Curitiba,30.8,Streaming,0,Legítima,0.18466602926054154,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1109,2026-11-07 09:30:00,9,0,76.83,Rio de Janeiro,34.1,Supermercado,0,Legítima,0.17212398230348874,7.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1589,2026-11-15 17:39:00,17,0,29.03,Belo Horizonte,11.9,Farmácia,0,Legítima,0.16623616698720273,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1057,2026-11-04 10:13:00,10,0,46.0,Porto Alegre,2.7,Farmácia,0,Legítima,0.1553935997588981,11.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1406,2026-11-12 11:46:00,11,0,157.76,Rio de Janeiro,44.2,Streaming,0,Legítima,0.12370824761193011,18.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1443,2026-11-02 16:36:00,16,0,16.73,São Paulo,15.6,Combustível,0,Legítima,0.16857228602032232,8.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1758,2026-11-01 14:13:00,14,0,137.7,Rio de Janeiro,19.5,Alimentação,0,Legítima,0.19637694145802043,1.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2028,2026-11-08 03:57:00,3,1,9825.5,Fronteira Seca,588.4,Saque em Espécie 24h,1,Saque de alto valor na madrugada em local distante,-0.16033591536800373,84.1,1,CRÍTICO,"Valor atípico (R$ 9,825.50) + Horário de risco (03h) + Localidade distante (588km)"
+TXN-1025,2026-11-10 14:05:00,14,0,26.76,Belo Horizonte,2.4,Farmácia,0,Legítima,0.15574439515111538,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1468,2026-11-04 17:44:00,17,0,131.63,Belo Horizonte,35.9,Farmácia,0,Legítima,0.16877803118670098,8.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1540,2026-11-04 10:18:00,10,0,29.43,São Paulo,10.6,Streaming,0,Legítima,0.18310414327318064,5.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1532,2026-11-06 12:17:00,12,0,131.78,Rio de Janeiro,22.8,Farmácia,0,Legítima,0.190910857612624,3.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1619,2026-11-04 11:40:00,11,0,110.13,Curitiba,20.6,Combustível,0,Legítima,0.19300944680485116,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1695,2026-11-13 09:34:00,9,0,67.19,Belo Horizonte,17.9,Combustível,0,Legítima,0.18246702440421791,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1927,2026-11-05 18:41:00,18,0,33.73,Curitiba,2.1,Alimentação,0,Legítima,0.11843271223269852,19.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1339,2026-11-08 15:39:00,15,0,293.5,Rio de Janeiro,18.9,Supermercado,0,Legítima,0.13943090456705765,15.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1052,2026-11-01 09:52:00,9,0,49.29,Rio de Janeiro,37.2,Supermercado,0,Legítima,0.15547004122440827,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1508,2026-11-10 13:06:00,13,0,99.76,Rio de Janeiro,31.3,Alimentação,0,Legítima,0.19295749973130288,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1517,2026-11-07 09:22:00,9,0,174.89,Curitiba,18.8,Streaming,0,Legítima,0.17202761322055232,7.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1921,2026-11-03 15:10:00,15,0,57.74,Curitiba,0.5,Alimentação,0,Legítima,0.11966040267416644,19.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1782,2026-11-04 13:04:00,13,0,45.58,Rio de Janeiro,22.6,Combustível,0,Legítima,0.19857727965281496,1.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1265,2026-11-08 16:08:00,16,0,65.59,Rio de Janeiro,43.4,Streaming,0,Legítima,0.1448741178250409,13.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1818,2026-11-05 16:19:00,16,0,154.27,Rio de Janeiro,14.7,Streaming,0,Legítima,0.1791638919259575,5.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1711,2026-11-04 17:25:00,17,0,139.58,São Paulo,34.6,Supermercado,0,Legítima,0.17135267680548888,7.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1683,2026-11-09 08:09:00,8,0,89.78,Curitiba,0.8,Alimentação,0,Legítima,0.10535262418512481,22.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1833,2026-11-09 16:59:00,16,0,98.07,Porto Alegre,23.6,Alimentação,0,Legítima,0.18985679172017372,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1519,2026-11-04 14:48:00,14,0,133.07,São Paulo,40.0,Alimentação,0,Legítima,0.15868590650819847,10.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1448,2026-11-06 16:01:00,16,0,24.22,Rio de Janeiro,23.7,Streaming,0,Legítima,0.18442301476941925,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1019,2026-11-11 09:29:00,9,0,137.74,São Paulo,13.9,Alimentação,0,Legítima,0.17275670455067943,7.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1716,2026-11-08 09:00:00,9,0,73.06,Curitiba,0.7,Streaming,0,Legítima,0.12232291598269746,19.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1484,2026-11-09 16:52:00,16,0,81.61,Porto Alegre,43.1,Combustível,0,Legítima,0.14611940436490722,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1569,2026-11-08 12:41:00,12,0,22.06,Curitiba,19.0,Supermercado,0,Legítima,0.18970404733613927,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1434,2026-11-13 20:34:00,20,0,50.45,Porto Alegre,8.1,Farmácia,0,Legítima,0.09266233693123782,25.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1368,2026-11-12 12:17:00,12,0,49.98,Rio de Janeiro,22.8,Streaming,0,Legítima,0.19701059336152205,1.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1084,2026-11-10 19:17:00,19,0,22.53,São Paulo,2.8,Supermercado,0,Legítima,0.10069422815045648,24.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1062,2026-11-04 15:14:00,15,0,37.01,Curitiba,19.1,Farmácia,0,Legítima,0.1898925444246421,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1639,2026-11-12 16:58:00,16,0,131.7,Belo Horizonte,33.8,Supermercado,0,Legítima,0.17834209639340365,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1273,2026-11-15 09:30:00,9,0,54.84,Rio de Janeiro,43.9,Streaming,0,Legítima,0.12657072429025645,18.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1286,2026-11-04 20:49:00,20,0,52.0,Belo Horizonte,44.0,Streaming,0,Legítima,0.08445225252165611,27.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1361,2026-11-13 10:50:00,10,0,226.76,São Paulo,21.5,Combustível,0,Legítima,0.156956403128026,11.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1355,2026-11-04 09:45:00,9,0,92.7,Belo Horizonte,31.0,Alimentação,0,Legítima,0.17491757419411547,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1457,2026-11-01 16:37:00,16,0,16.97,Porto Alegre,42.7,Combustível,0,Legítima,0.13400007345431714,16.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1279,2026-11-01 12:59:00,12,0,252.88,Rio de Janeiro,8.9,Alimentação,0,Legítima,0.13286123718752657,16.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1013,2026-11-08 15:39:00,15,0,158.24,São Paulo,28.7,Combustível,0,Legítima,0.18502652241569612,4.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1183,2026-11-02 20:35:00,20,0,31.67,Porto Alegre,25.1,Alimentação,0,Legítima,0.12121296335973897,19.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1369,2026-11-13 16:29:00,16,0,91.33,Rio de Janeiro,12.2,Alimentação,0,Legítima,0.1846629636387379,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1882,2026-11-05 10:18:00,10,0,87.4,Curitiba,14.5,Supermercado,0,Legítima,0.19225405610699692,2.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1616,2026-11-02 08:15:00,8,0,101.15,Belo Horizonte,8.1,Alimentação,0,Legítima,0.1490208272778889,12.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1224,2026-11-03 17:34:00,17,0,68.02,Curitiba,22.8,Farmácia,0,Legítima,0.1878871299188018,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1573,2026-11-02 10:11:00,10,0,77.5,Rio de Janeiro,24.9,Alimentação,0,Legítima,0.18893783802933906,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2001,2026-11-15 04:38:00,4,1,8800.19,Fronteira Seca,404.3,Saque em Espécie 24h,1,Saque de alto valor na madrugada em local distante,-0.1516228182234728,82.1,1,CRÍTICO,"Valor atípico (R$ 8,800.19) + Horário de risco (04h)"
+TXN-1654,2026-11-07 15:08:00,15,0,21.37,São Paulo,16.2,Farmácia,0,Legítima,0.17385006668933073,7.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1546,2026-11-03 17:32:00,17,0,194.31,Porto Alegre,35.3,Alimentação,0,Legítima,0.15655182897235975,11.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1583,2026-11-04 14:34:00,14,0,205.92,Belo Horizonte,30.2,Streaming,0,Legítima,0.16987825807151963,8.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1634,2026-11-13 16:08:00,16,0,21.58,Curitiba,9.2,Alimentação,0,Legítima,0.16721818899864183,8.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1177,2026-11-06 10:20:00,10,0,59.0,Belo Horizonte,7.7,Supermercado,0,Legítima,0.18464437405775747,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1666,2026-11-06 16:19:00,16,0,19.54,Curitiba,2.2,Supermercado,0,Legítima,0.13556729902119385,15.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1674,2026-11-03 11:52:00,11,0,45.32,Rio de Janeiro,1.8,Streaming,0,Legítima,0.1482292111941556,13.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1586,2026-11-05 12:07:00,12,0,104.94,São Paulo,39.5,Streaming,0,Legítima,0.16268974284906929,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1874,2026-11-03 16:20:00,16,0,118.26,Belo Horizonte,33.7,Combustível,0,Legítima,0.18168566203631126,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1394,2026-11-06 17:39:00,17,0,204.43,Belo Horizonte,28.0,Alimentação,0,Legítima,0.16218296168413965,9.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1164,2026-11-01 11:43:00,11,0,151.26,São Paulo,30.0,Alimentação,0,Legítima,0.17711883452085175,6.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1249,2026-11-02 19:41:00,19,0,23.04,São Paulo,28.1,Supermercado,0,Legítima,0.14809218073583247,13.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1635,2026-11-09 07:14:00,7,0,182.91,Rio de Janeiro,17.8,Combustível,0,Legítima,0.0983379954185396,24.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1886,2026-11-01 14:18:00,14,0,193.0,Belo Horizonte,19.0,Farmácia,0,Legítima,0.18460118759303284,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1670,2026-11-07 09:22:00,9,0,749.74,Porto Alegre,7.8,Streaming,0,Legítima,0.028146954100521593,40.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1376,2026-11-12 10:06:00,10,0,100.95,São Paulo,14.6,Supermercado,0,Legítima,0.18990424685457497,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1413,2026-11-15 13:54:00,13,0,83.62,Belo Horizonte,1.9,Alimentação,0,Legítima,0.15933751356484915,10.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1075,2026-11-05 12:31:00,12,0,34.56,Porto Alegre,42.2,Supermercado,0,Legítima,0.15606210521468505,11.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1114,2026-11-06 13:52:00,13,0,92.06,Rio de Janeiro,34.7,Farmácia,0,Legítima,0.18639847308120838,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1599,2026-11-14 11:19:00,11,0,53.69,Curitiba,12.9,Combustível,0,Legítima,0.189256735165095,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1962,2026-11-06 12:16:00,12,0,90.2,Curitiba,29.7,Supermercado,0,Legítima,0.19662194030846053,1.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1391,2026-11-11 08:42:00,8,0,225.11,Curitiba,23.2,Farmácia,0,Legítima,0.1271583720807033,17.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1105,2026-11-06 09:30:00,9,0,211.54,São Paulo,34.9,Streaming,0,Legítima,0.1375415063595679,15.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1115,2026-11-08 17:22:00,17,0,358.44,Rio de Janeiro,38.3,Farmácia,0,Legítima,0.06843496986810749,31.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1418,2026-11-02 16:20:00,16,0,96.83,Porto Alegre,27.5,Streaming,0,Legítima,0.1911237335053358,3.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1526,2026-11-09 16:59:00,16,0,93.75,Rio de Janeiro,39.7,Alimentação,0,Legítima,0.15769351379952845,10.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1458,2026-11-08 16:12:00,16,0,57.38,Porto Alegre,14.9,Farmácia,0,Legítima,0.1834123345502104,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1410,2026-11-04 19:59:00,19,0,195.97,São Paulo,19.4,Supermercado,0,Legítima,0.1355384065889504,15.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1093,2026-11-11 14:32:00,14,0,64.96,Curitiba,7.1,Streaming,0,Legítima,0.18269806577400266,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1931,2026-11-11 17:46:00,17,0,195.48,Belo Horizonte,32.9,Alimentação,0,Legítima,0.15791467101812173,10.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1090,2026-11-01 14:00:00,14,0,420.94,Curitiba,8.2,Combustível,0,Legítima,0.060938987082976626,33.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1337,2026-11-11 16:17:00,16,0,50.87,Belo Horizonte,35.9,Supermercado,0,Legítima,0.17463611582077693,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2019,2026-11-03 01:42:00,1,1,31049.83,São Paulo,27.1,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.16381021587359612,84.9,1,CRÍTICO,"Valor atípico (R$ 31,049.83) + Horário de risco (01h)"
+TXN-1922,2026-11-01 13:26:00,13,0,44.35,Curitiba,41.4,Streaming,0,Legítima,0.16284155135767964,9.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1934,2026-11-03 12:15:00,12,0,29.72,Porto Alegre,19.5,Supermercado,0,Legítima,0.1965014829727142,1.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1606,2026-11-07 20:10:00,20,0,54.2,Belo Horizonte,11.6,Streaming,0,Legítima,0.10175366361689292,23.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1594,2026-11-01 10:29:00,10,0,95.1,Porto Alegre,27.7,Supermercado,0,Legítima,0.18669955522946236,4.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1612,2026-11-06 18:39:00,18,0,163.86,São Paulo,12.4,Combustível,0,Legítima,0.14385981048255897,14.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1095,2026-11-05 11:05:00,11,0,49.69,Belo Horizonte,28.7,Combustível,0,Legítima,0.19024078247056692,3.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1012,2026-11-07 17:33:00,17,0,52.79,São Paulo,5.6,Supermercado,0,Legítima,0.15671277141456774,11.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1397,2026-11-05 16:08:00,16,0,66.98,São Paulo,23.6,Streaming,0,Legítima,0.18960686226269108,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1534,2026-11-03 17:16:00,17,0,50.55,Belo Horizonte,33.4,Alimentação,0,Legítima,0.1761428735781022,6.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1044,2026-11-14 09:34:00,9,0,114.17,Porto Alegre,22.2,Alimentação,0,Legítima,0.18256305668311001,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1043,2026-11-13 10:51:00,10,0,87.55,São Paulo,6.3,Combustível,0,Legítima,0.18274324449514473,5.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1330,2026-11-01 12:15:00,12,0,22.44,Belo Horizonte,35.3,Combustível,0,Legítima,0.1749054178821275,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1168,2026-11-01 13:56:00,13,0,126.72,Rio de Janeiro,18.7,Farmácia,0,Legítima,0.1963282063346134,1.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1498,2026-11-15 15:46:00,15,0,39.25,Belo Horizonte,2.9,Alimentação,0,Legítima,0.15546728115035263,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1877,2026-11-03 16:13:00,16,0,81.72,Porto Alegre,24.3,Combustível,0,Legítima,0.19520194626671405,2.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1598,2026-11-09 16:39:00,16,0,35.51,Rio de Janeiro,33.9,Supermercado,0,Legítima,0.17640450858008533,6.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1757,2026-11-15 15:37:00,15,0,56.46,Porto Alegre,6.6,Farmácia,0,Legítima,0.17433136328800392,7.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1101,2026-11-12 13:16:00,13,0,66.41,Curitiba,22.5,Streaming,0,Legítima,0.20028180270284074,1.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1427,2026-11-15 09:55:00,9,0,153.52,São Paulo,29.7,Supermercado,0,Legítima,0.16768604807348897,8.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1179,2026-11-05 18:20:00,18,0,21.23,Porto Alegre,23.7,Supermercado,0,Legítima,0.16358188079805297,9.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1445,2026-11-05 09:51:00,9,0,32.82,Porto Alegre,13.7,Farmácia,0,Legítima,0.17569681633552675,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1417,2026-11-01 11:44:00,11,0,122.57,Curitiba,11.1,Supermercado,0,Legítima,0.17749226397374923,6.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1871,2026-11-08 10:13:00,10,0,90.13,Curitiba,14.0,Streaming,0,Legítima,0.19219679725256744,2.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1883,2026-11-14 18:40:00,18,0,31.75,Porto Alegre,17.5,Farmácia,0,Legítima,0.16629352659505525,8.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1681,2026-11-08 09:21:00,9,0,49.48,Porto Alegre,41.6,Streaming,0,Legítima,0.13907300969056957,15.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1178,2026-11-06 15:02:00,15,0,36.21,São Paulo,34.0,Supermercado,0,Legítima,0.1827031754592589,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1396,2026-11-11 09:40:00,9,0,88.89,Rio de Janeiro,21.7,Supermercado,0,Legítima,0.18738291390918765,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1912,2026-11-11 13:58:00,13,0,67.63,Curitiba,44.0,Alimentação,0,Legítima,0.1471369845584824,13.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1794,2026-11-01 10:14:00,10,0,29.33,Porto Alegre,15.6,Farmácia,0,Legítima,0.18322392163462164,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1961,2026-11-03 09:49:00,9,0,395.73,Curitiba,12.7,Farmácia,0,Legítima,0.08493169397977007,27.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1685,2026-11-06 18:08:00,18,0,191.29,Belo Horizonte,15.1,Combustível,0,Legítima,0.1484208051664263,13.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1384,2026-11-10 15:14:00,15,0,29.02,Curitiba,32.2,Streaming,0,Legítima,0.18280441058389885,5.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1957,2026-11-09 14:54:00,14,0,125.86,Curitiba,30.1,Alimentação,0,Legítima,0.19159577379915121,3.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1752,2026-11-04 19:25:00,19,0,47.02,Belo Horizonte,43.2,Streaming,0,Legítima,0.11441491814402849,20.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1258,2026-11-06 11:04:00,11,0,45.76,Rio de Janeiro,32.7,Supermercado,0,Legítima,0.18659559877234871,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1539,2026-11-04 18:18:00,18,0,84.07,Curitiba,43.8,Combustível,0,Legítima,0.12778083359770576,17.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1336,2026-11-06 14:51:00,14,0,454.72,Porto Alegre,11.5,Streaming,0,Legítima,0.05831577246245423,33.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1016,2026-11-05 11:55:00,11,0,93.0,São Paulo,35.4,Farmácia,0,Legítima,0.18226149102521366,5.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1325,2026-11-15 15:08:00,15,0,58.86,Belo Horizonte,41.6,Farmácia,0,Legítima,0.15628973598368234,11.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1759,2026-11-11 11:08:00,11,0,709.81,Belo Horizonte,28.4,Combustível,0,Legítima,0.0347090455140181,39.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1223,2026-11-05 17:14:00,17,0,266.96,Rio de Janeiro,5.5,Combustível,0,Legítima,0.10953411937526109,21.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1180,2026-11-04 13:27:00,13,0,15.59,São Paulo,43.2,Farmácia,0,Legítima,0.1329102648736773,16.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2014,2026-11-01 19:22:00,19,0,50022.98,Rio de Janeiro,49.3,Joalheria & Artigos de Luxo,1,Ticket ultra elevado fora do perfil de consumo,-0.1451058970993122,80.6,1,CRÍTICO,"Valor atípico (R$ 50,022.98)"
+TXN-1023,2026-11-04 12:42:00,12,0,44.47,Porto Alegre,8.4,Farmácia,0,Legítima,0.18148876605536673,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1357,2026-11-14 15:39:00,15,0,153.42,Porto Alegre,13.4,Farmácia,0,Legítima,0.1831787999711233,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1667,2026-11-08 11:12:00,11,0,37.13,Curitiba,21.9,Farmácia,0,Legítima,0.19235724144205674,2.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1862,2026-11-08 07:47:00,7,0,97.3,Porto Alegre,6.0,Supermercado,0,Legítima,0.09873356083937063,24.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1341,2026-11-05 18:46:00,18,0,327.23,Rio de Janeiro,27.5,Alimentação,0,Legítima,0.10888551479917014,22.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1432,2026-11-08 10:22:00,10,0,40.0,Belo Horizonte,25.7,Alimentação,0,Legítima,0.18593058874223445,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1552,2026-11-14 17:13:00,17,0,23.99,Rio de Janeiro,16.3,Combustível,0,Legítima,0.1701535156993167,7.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1834,2026-11-14 09:05:00,9,0,29.01,Porto Alegre,9.6,Supermercado,0,Legítima,0.17044728707374768,7.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1204,2026-11-08 22:27:00,22,0,311.9,São Paulo,42.7,Alimentação,0,Legítima,-0.021093893060942115,52.0,1,MÉDIO,Padrão multidimensional divergente do cluster usual
+TXN-1631,2026-11-11 15:10:00,15,0,173.59,Curitiba,2.3,Combustível,0,Legítima,0.14214093179373116,14.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1094,2026-11-07 13:41:00,13,0,39.63,São Paulo,6.5,Supermercado,0,Legítima,0.1767530481801915,6.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1559,2026-11-14 08:12:00,8,0,178.84,Curitiba,1.8,Supermercado,0,Legítima,0.10218416782941553,23.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1069,2026-11-09 17:24:00,17,0,108.04,Porto Alegre,42.6,Combustível,0,Legítima,0.14301172277748464,14.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1623,2026-11-14 12:14:00,12,0,35.31,Belo Horizonte,32.6,Supermercado,0,Legítima,0.18771021152517514,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1285,2026-11-10 19:50:00,19,0,17.82,Rio de Janeiro,9.7,Supermercado,0,Legítima,0.12062967501259925,19.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1845,2026-11-03 09:09:00,9,0,70.44,São Paulo,3.6,Streaming,0,Legítima,0.1583473110036891,10.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1435,2026-11-09 17:18:00,17,0,48.54,São Paulo,5.6,Streaming,0,Legítima,0.1576238534842,10.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1154,2026-11-04 15:28:00,15,0,196.27,Rio de Janeiro,38.3,Farmácia,0,Legítima,0.1557467599806076,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1076,2026-11-06 12:44:00,12,0,45.73,São Paulo,42.2,Farmácia,0,Legítima,0.1610286203302057,10.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1731,2026-11-09 11:55:00,11,0,67.27,Porto Alegre,33.3,Supermercado,0,Legítima,0.1870067519191737,4.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1447,2026-11-10 11:18:00,11,0,211.29,Rio de Janeiro,24.3,Alimentação,0,Legítima,0.16256718264093106,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1189,2026-11-11 10:52:00,10,0,43.82,Curitiba,15.6,Streaming,0,Legítima,0.18807490415227257,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1272,2026-11-04 13:55:00,13,0,67.04,Curitiba,15.8,Supermercado,0,Legítima,0.1926770508327149,2.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1237,2026-11-07 15:10:00,15,0,78.76,São Paulo,43.9,Streaming,0,Legítima,0.14616698429463076,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1488,2026-11-10 16:11:00,16,0,426.62,Belo Horizonte,24.4,Combustível,0,Legítima,0.0912530749259266,26.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1118,2026-11-14 07:36:00,7,0,88.82,Curitiba,27.1,Alimentação,0,Legítima,0.1131603371831158,21.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1944,2026-11-14 13:48:00,13,0,133.51,Curitiba,44.5,Farmácia,0,Legítima,0.13346587931241044,16.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1513,2026-11-13 15:48:00,15,0,104.42,São Paulo,1.7,Streaming,0,Legítima,0.15020239426933935,12.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1826,2026-11-01 14:03:00,14,0,31.38,Belo Horizonte,9.7,Farmácia,0,Legítima,0.18061600495961588,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1592,2026-11-10 17:11:00,17,0,159.54,Rio de Janeiro,39.4,Combustível,0,Legítima,0.14439203629999836,13.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1127,2026-11-02 08:22:00,8,0,122.96,Belo Horizonte,34.9,Combustível,0,Legítima,0.1459487471323599,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1117,2026-11-10 19:37:00,19,0,56.62,São Paulo,9.0,Alimentação,0,Legítima,0.12657788267207148,18.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1474,2026-11-03 10:26:00,10,0,16.74,São Paulo,34.4,Supermercado,0,Legítima,0.16624400574568526,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1694,2026-11-09 13:17:00,13,0,15.37,Porto Alegre,27.6,Streaming,0,Legítima,0.17957170556023377,5.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1058,2026-11-08 12:55:00,12,0,22.08,São Paulo,2.8,Streaming,0,Legítima,0.14991740550804972,12.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1864,2026-11-08 18:43:00,18,0,92.64,Curitiba,3.5,Supermercado,0,Legítima,0.13047683846331304,17.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1913,2026-11-03 12:12:00,12,0,61.15,São Paulo,28.2,Alimentação,0,Legítima,0.19379908356675557,2.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1370,2026-11-15 14:45:00,14,0,179.32,São Paulo,28.9,Farmácia,0,Legítima,0.18501114604833763,4.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1269,2026-11-13 17:13:00,17,0,44.71,Belo Horizonte,39.4,Alimentação,0,Legítima,0.15283224605859203,11.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1047,2026-11-09 20:09:00,20,0,151.16,Belo Horizonte,21.3,Streaming,0,Legítima,0.11226203270634372,21.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1350,2026-11-14 18:40:00,18,0,56.94,Porto Alegre,9.9,Supermercado,0,Legítima,0.1479328619919104,13.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1196,2026-11-13 21:08:00,21,0,163.79,Rio de Janeiro,7.3,Farmácia,0,Legítima,0.044380829278873435,36.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2030,2026-11-07 03:39:00,3,1,13192.19,Fronteira Seca,607.9,Saque em Espécie 24h,1,Saque de alto valor na madrugada em local distante,-0.16361508082153187,84.9,1,CRÍTICO,"Valor atípico (R$ 13,192.19) + Horário de risco (03h) + Localidade distante (608km)"
+TXN-1835,2026-11-02 17:50:00,17,0,189.96,São Paulo,33.9,Combustível,0,Legítima,0.15973379726056958,10.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1737,2026-11-11 11:14:00,11,0,185.34,Porto Alegre,39.1,Combustível,0,Legítima,0.14612340045290861,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1264,2026-11-06 18:59:00,18,0,180.25,São Paulo,7.6,Alimentação,0,Legítima,0.131229451348215,16.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1444,2026-11-02 15:26:00,15,0,232.68,Porto Alegre,39.5,Combustível,0,Legítima,0.13106949443444565,17.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1676,2026-11-02 15:51:00,15,0,40.73,Curitiba,40.9,Farmácia,0,Legítima,0.15525451916411648,11.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1305,2026-11-09 09:42:00,9,0,115.51,São Paulo,21.9,Supermercado,0,Legítima,0.18225630608222526,5.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1342,2026-11-13 15:56:00,15,0,18.38,Curitiba,32.2,Alimentação,0,Legítima,0.17703888612354823,6.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1967,2026-11-10 12:55:00,12,0,57.19,Curitiba,31.5,Alimentação,0,Legítima,0.1937808676559451,2.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1150,2026-11-04 17:31:00,17,0,29.41,Curitiba,21.9,Alimentação,0,Legítima,0.18499704255678473,4.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1125,2026-11-07 20:14:00,20,0,75.25,Belo Horizonte,25.2,Supermercado,0,Legítima,0.12281850191605215,18.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1787,2026-11-05 12:20:00,12,0,48.14,São Paulo,12.7,Combustível,0,Legítima,0.18836026368264264,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1051,2026-11-04 12:31:00,12,0,112.45,Porto Alegre,36.8,Combustível,0,Legítima,0.1765918201416981,6.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1354,2026-11-08 11:10:00,11,0,36.07,Curitiba,12.1,Combustível,0,Legítima,0.18483138230202145,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1928,2026-11-10 11:02:00,11,0,38.26,São Paulo,6.4,Supermercado,0,Legítima,0.17904404821368108,5.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1143,2026-11-03 17:28:00,17,0,75.45,Rio de Janeiro,29.6,Supermercado,0,Legítima,0.1806802197522281,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1471,2026-11-07 11:49:00,11,0,34.04,Rio de Janeiro,21.1,Farmácia,0,Legítima,0.19314055491290455,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1400,2026-11-05 08:32:00,8,0,64.59,Rio de Janeiro,18.9,Farmácia,0,Legítima,0.16124265136839883,10.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1626,2026-11-11 16:04:00,16,0,104.68,Rio de Janeiro,0.5,Supermercado,0,Legítima,0.11648683251987713,20.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1321,2026-11-13 12:44:00,12,0,45.86,Belo Horizonte,25.9,Supermercado,0,Legítima,0.19160606756642962,3.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1020,2026-11-06 15:36:00,15,0,22.2,Rio de Janeiro,43.3,Supermercado,0,Legítima,0.13758619661360721,15.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1810,2026-11-07 07:48:00,7,0,109.74,Curitiba,7.5,Farmácia,0,Legítima,0.10075002133573563,23.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1791,2026-11-02 15:22:00,15,0,112.36,São Paulo,10.9,Farmácia,0,Legítima,0.17754271789756854,6.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1809,2026-11-06 10:46:00,10,0,104.39,Belo Horizonte,8.3,Farmácia,0,Legítima,0.18642030070018728,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1408,2026-11-01 21:11:00,21,0,222.76,São Paulo,14.9,Streaming,0,Legítima,0.05155956361199732,35.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1538,2026-11-06 13:01:00,13,0,80.02,Curitiba,21.3,Combustível,0,Legítima,0.20464927655999104,0.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1621,2026-11-05 10:55:00,10,0,48.93,Belo Horizonte,9.0,Farmácia,0,Legítima,0.18429644202639528,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1039,2026-11-13 09:04:00,9,0,69.38,Belo Horizonte,27.2,Supermercado,0,Legítima,0.17962172563530066,5.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1176,2026-11-07 14:23:00,14,0,74.8,Curitiba,21.3,Streaming,0,Legítima,0.19810878081312616,1.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1246,2026-11-02 10:53:00,10,0,31.78,São Paulo,8.3,Farmácia,0,Legítima,0.18347458743276396,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1829,2026-11-11 20:12:00,20,0,170.64,Belo Horizonte,25.2,Combustível,0,Legítima,0.1102444198472356,21.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1668,2026-11-11 15:10:00,15,0,52.81,São Paulo,26.5,Alimentação,0,Legítima,0.18752462755292165,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1755,2026-11-07 16:38:00,16,0,49.53,São Paulo,9.7,Supermercado,0,Legítima,0.1774817300283303,6.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1859,2026-11-01 14:40:00,14,0,41.52,Porto Alegre,3.1,Farmácia,0,Legítima,0.16403292734724517,9.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1155,2026-11-13 07:16:00,7,0,84.75,Curitiba,34.9,Supermercado,0,Legítima,0.09247043526015913,25.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1288,2026-11-14 14:21:00,14,0,41.63,Belo Horizonte,9.5,Combustível,0,Legítima,0.1836368661386359,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1603,2026-11-01 17:22:00,17,0,82.55,Rio de Janeiro,44.3,Alimentação,0,Legítima,0.1340105046508655,16.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1570,2026-11-07 09:50:00,9,0,98.82,Rio de Janeiro,2.1,Streaming,0,Legítima,0.14289120998790145,14.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1744,2026-11-08 17:48:00,17,0,32.69,São Paulo,11.6,Combustível,0,Legítima,0.16492856099607145,9.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1018,2026-11-11 09:46:00,9,0,57.62,Belo Horizonte,22.8,Supermercado,0,Legítima,0.1811937604604853,5.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1128,2026-11-12 18:44:00,18,0,102.76,Rio de Janeiro,10.9,Supermercado,0,Legítima,0.1488503071618391,12.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1323,2026-11-06 09:08:00,9,0,121.51,São Paulo,8.9,Alimentação,0,Legítima,0.1718468819930999,7.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1256,2026-11-14 19:48:00,19,0,67.79,Belo Horizonte,20.6,Alimentação,0,Legítima,0.15244504285499594,12.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1658,2026-11-02 14:19:00,14,0,300.89,Porto Alegre,24.8,Streaming,0,Legítima,0.14109135705530823,14.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1965,2026-11-05 07:33:00,7,0,92.82,São Paulo,12.6,Streaming,0,Legítima,0.1065041970545787,22.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1191,2026-11-12 18:00:00,18,0,83.68,Rio de Janeiro,24.1,Farmácia,0,Legítima,0.17534247350857074,6.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1116,2026-11-08 11:34:00,11,0,58.62,Curitiba,18.2,Supermercado,0,Legítima,0.1888985574541331,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1617,2026-11-03 20:13:00,20,0,143.33,Belo Horizonte,29.0,Combustível,0,Legítima,0.11389142452158146,20.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1607,2026-11-02 18:29:00,18,0,99.64,São Paulo,27.8,Combustível,0,Legítima,0.1677160332201601,8.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1181,2026-11-08 15:40:00,15,0,74.59,Rio de Janeiro,13.6,Alimentação,0,Legítima,0.18967470310476203,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1302,2026-11-15 09:05:00,9,0,37.02,Rio de Janeiro,13.5,Supermercado,0,Legítima,0.17668912012406812,6.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1760,2026-11-01 13:33:00,13,0,97.19,Rio de Janeiro,12.5,Farmácia,0,Legítima,0.1882523970919447,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1713,2026-11-08 12:06:00,12,0,61.69,Rio de Janeiro,36.3,Alimentação,0,Legítima,0.184296903774189,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1724,2026-11-13 08:06:00,8,0,57.01,Curitiba,34.1,Supermercado,0,Legítima,0.14878269977996295,12.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1686,2026-11-11 17:02:00,17,0,231.98,Belo Horizonte,2.1,Supermercado,0,Legítima,0.09820078759701856,24.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2010,2026-11-06 03:11:00,3,1,12930.3,Kyiv / Ilhas Cayman,5894.7,Serviços Digitais Internacionais,1,Disparidade geográfica extrema (Distância > 2500km),-0.22161000821023613,98.2,1,CRÍTICO,"Valor atípico (R$ 12,930.30) + Horário de risco (03h) + Localidade distante (5895km)"
+TXN-1518,2026-11-07 15:31:00,15,0,187.68,Curitiba,6.9,Supermercado,0,Legítima,0.15999747262241265,10.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2015,2026-11-13 04:33:00,4,1,11761.45,Fronteira Seca,680.7,Saque em Espécie 24h,1,Saque de alto valor na madrugada em local distante,-0.15788145075108528,83.5,1,CRÍTICO,"Valor atípico (R$ 11,761.45) + Horário de risco (04h) + Localidade distante (681km)"
+TXN-1046,2026-11-10 14:08:00,14,0,56.67,Belo Horizonte,19.2,Supermercado,0,Legítima,0.1945369648210185,2.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1910,2026-11-13 17:56:00,17,0,175.43,Belo Horizonte,34.7,Combustível,0,Legítima,0.16890896756546236,8.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1158,2026-11-04 14:17:00,14,0,62.5,Belo Horizonte,4.0,Alimentação,0,Legítima,0.16773576180869892,8.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1852,2026-11-04 18:59:00,18,0,205.95,São Paulo,3.4,Supermercado,0,Legítima,0.10341549631488828,23.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1172,2026-11-12 13:05:00,13,0,80.24,Curitiba,25.9,Combustível,0,Legítima,0.2002868228973564,1.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1017,2026-11-07 15:24:00,15,0,27.77,Rio de Janeiro,1.5,Supermercado,0,Legítima,0.13886799231269054,15.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1512,2026-11-12 14:38:00,14,0,112.43,Rio de Janeiro,28.1,Farmácia,0,Legítima,0.19411363749831445,2.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1049,2026-11-08 10:20:00,10,0,250.12,Porto Alegre,27.3,Streaming,0,Legítima,0.1439073784010486,14.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2002,2026-11-05 16:31:00,16,0,53603.75,Rio de Janeiro,26.6,Joalheria & Artigos de Luxo,1,Ticket ultra elevado fora do perfil de consumo,-0.11661967999753808,74.0,1,CRÍTICO,"Valor atípico (R$ 53,603.75)"
+TXN-1941,2026-11-10 09:17:00,9,0,50.79,São Paulo,35.2,Alimentação,0,Legítima,0.16269133405947872,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1516,2026-11-10 18:46:00,18,0,27.11,Porto Alegre,41.1,Alimentação,0,Legítima,0.12629898685333957,18.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1953,2026-11-12 17:33:00,17,0,44.49,São Paulo,2.5,Alimentação,0,Legítima,0.13316496843473574,16.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1481,2026-11-08 10:58:00,10,0,20.04,Porto Alegre,6.0,Streaming,0,Legítima,0.1665462304019728,8.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1284,2026-11-02 12:06:00,12,0,49.83,Curitiba,20.4,Combustível,0,Legítima,0.1992476662283446,1.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1719,2026-11-03 12:21:00,12,0,67.41,Rio de Janeiro,28.2,Streaming,0,Legítima,0.1938738044358455,2.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1878,2026-11-01 07:17:00,7,0,118.2,Rio de Janeiro,8.5,Alimentação,0,Legítima,0.10121530218762231,23.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1226,2026-11-05 20:19:00,20,0,97.96,São Paulo,2.8,Farmácia,0,Legítima,0.07175686323990682,30.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1027,2026-11-14 10:17:00,10,0,48.52,Curitiba,26.8,Alimentação,0,Legítima,0.1872013979197546,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1955,2026-11-09 12:24:00,12,0,38.12,Rio de Janeiro,23.1,Combustível,0,Legítima,0.19253943452113992,2.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1438,2026-11-14 19:15:00,19,0,20.13,Rio de Janeiro,26.6,Alimentação,0,Legítima,0.14103362646521717,14.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1952,2026-11-05 20:30:00,20,0,22.64,Porto Alegre,21.8,Supermercado,0,Legítima,0.11747367868253106,20.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1365,2026-11-04 10:25:00,10,0,22.91,Curitiba,19.7,Supermercado,0,Legítima,0.18368019097219762,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1230,2026-11-02 13:16:00,13,0,16.17,Rio de Janeiro,19.9,Supermercado,0,Legítima,0.18564535472649052,4.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1038,2026-11-12 09:44:00,9,0,95.39,São Paulo,11.2,Streaming,0,Legítima,0.1758032287631378,6.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1966,2026-11-10 16:51:00,16,0,61.03,Curitiba,11.1,Alimentação,0,Legítima,0.175973266776546,6.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1375,2026-11-02 11:31:00,11,0,22.7,Curitiba,20.4,Streaming,0,Legítima,0.18659236526595796,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1470,2026-11-08 08:17:00,8,0,243.24,São Paulo,31.0,Combustível,0,Legítima,0.11641873739073721,20.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1968,2026-11-08 14:42:00,14,0,40.46,Belo Horizonte,30.8,Alimentação,0,Legítima,0.19271094021759533,2.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1851,2026-11-10 11:07:00,11,0,61.04,São Paulo,7.5,Streaming,0,Legítima,0.1828094741761812,5.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1705,2026-11-08 11:39:00,11,0,58.81,Porto Alegre,5.6,Streaming,0,Legítima,0.17669504926097057,6.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1842,2026-11-14 12:48:00,12,0,82.23,Belo Horizonte,35.3,Combustível,0,Legítima,0.18337136145379485,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1195,2026-11-07 14:04:00,14,0,56.42,Curitiba,8.8,Farmácia,0,Legítima,0.17845781235264002,6.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1855,2026-11-06 22:19:00,22,0,22.52,Rio de Janeiro,25.1,Supermercado,0,Legítima,0.034641959737420125,39.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1865,2026-11-01 15:35:00,15,0,192.75,Rio de Janeiro,42.9,Combustível,0,Legítima,0.13408510653461364,16.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1504,2026-11-11 15:30:00,15,0,23.59,São Paulo,26.6,Streaming,0,Legítima,0.1811349549271603,5.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1970,2026-11-13 11:42:00,11,0,42.36,Porto Alegre,31.4,Supermercado,0,Legítima,0.18910756747799468,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1831,2026-11-11 09:52:00,9,0,130.3,Curitiba,36.4,Streaming,0,Legítima,0.15580754303315653,11.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1580,2026-11-04 09:49:00,9,0,106.87,Porto Alegre,32.0,Supermercado,0,Legítima,0.17215890734218325,7.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1969,2026-11-06 12:53:00,12,0,20.29,Porto Alegre,27.3,Farmácia,0,Legítima,0.18374833531722817,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1163,2026-11-14 09:34:00,9,0,161.08,Curitiba,28.2,Farmácia,0,Legítima,0.1653390774161818,9.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1909,2026-11-02 17:55:00,17,0,96.18,Curitiba,30.7,Supermercado,0,Legítima,0.18114366393574044,5.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1153,2026-11-01 19:05:00,19,0,21.92,Porto Alegre,5.4,Supermercado,0,Legítima,0.11698301058920602,20.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1802,2026-11-06 09:03:00,9,0,104.22,Porto Alegre,17.4,Streaming,0,Legítima,0.18282805970547356,5.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2024,2026-11-04 04:46:00,4,1,25254.43,São Paulo,21.2,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.14751068914440857,81.2,1,CRÍTICO,"Valor atípico (R$ 25,254.43) + Horário de risco (04h)"
+TXN-1756,2026-11-03 11:30:00,11,0,18.98,São Paulo,30.1,Supermercado,0,Legítima,0.17762455329587312,6.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1112,2026-11-02 13:00:00,13,0,71.7,Porto Alegre,28.9,Streaming,0,Legítima,0.19420637051128592,2.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1227,2026-11-06 15:45:00,15,0,54.98,Belo Horizonte,37.0,Streaming,0,Legítima,0.17753987702847263,6.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1689,2026-11-12 16:05:00,16,0,61.4,Rio de Janeiro,14.3,Alimentação,0,Legítima,0.18427593678836873,4.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1104,2026-11-13 17:42:00,17,0,80.03,Belo Horizonte,27.2,Supermercado,0,Legítima,0.18933048780151546,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1422,2026-11-05 08:21:00,8,0,31.43,Porto Alegre,17.6,Alimentação,0,Legítima,0.14646989519407205,13.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1420,2026-11-03 13:46:00,13,0,180.85,Rio de Janeiro,41.8,Supermercado,0,Legítima,0.15021730518088877,12.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1751,2026-11-12 08:48:00,8,0,256.82,Belo Horizonte,37.7,Supermercado,0,Legítima,0.09170268136748183,26.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1587,2026-11-12 09:05:00,9,0,39.01,Curitiba,23.5,Streaming,0,Legítima,0.17373050839387488,7.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1781,2026-11-08 18:39:00,18,0,154.53,Rio de Janeiro,2.1,Farmácia,0,Legítima,0.10756201924945091,22.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1673,2026-11-11 10:33:00,10,0,131.78,Porto Alegre,20.0,Streaming,0,Legítima,0.18566672398924877,4.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1120,2026-11-08 15:52:00,15,0,82.17,Belo Horizonte,32.6,Streaming,0,Legítima,0.19256945589539026,2.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1054,2026-11-02 09:27:00,9,0,23.57,Belo Horizonte,8.3,Supermercado,0,Legítima,0.1641122202014541,9.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1152,2026-11-11 13:51:00,13,0,28.58,Belo Horizonte,6.7,Supermercado,0,Legítima,0.17469798206975873,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1404,2026-11-08 07:37:00,7,0,87.28,Porto Alegre,5.0,Farmácia,0,Legítima,0.09731010815051594,24.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1946,2026-11-07 13:09:00,13,0,87.49,Curitiba,25.8,Combustível,0,Legítima,0.20240505637845757,0.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1208,2026-11-10 15:43:00,15,0,21.49,Porto Alegre,9.3,Alimentação,0,Legítima,0.16685479080662308,8.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1659,2026-11-05 14:26:00,14,0,34.41,São Paulo,5.0,Combustível,0,Legítima,0.1749189198104511,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1844,2026-11-01 17:18:00,17,0,79.96,Belo Horizonte,15.6,Streaming,0,Legítima,0.18086293123500785,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1763,2026-11-12 08:45:00,8,0,72.61,Rio de Janeiro,29.1,Combustível,0,Legítima,0.15482035565960012,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1009,2026-11-13 12:09:00,12,0,117.99,São Paulo,37.5,Alimentação,0,Legítima,0.17398287190572448,7.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1808,2026-11-12 09:08:00,9,0,61.33,Belo Horizonte,41.0,Combustível,0,Legítima,0.1420110419088963,14.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1037,2026-11-05 13:28:00,13,0,229.19,Rio de Janeiro,17.1,Combustível,0,Legítima,0.16368863184299864,9.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1453,2026-11-04 14:42:00,14,0,182.65,Belo Horizonte,19.2,Combustível,0,Legítima,0.18826408084515717,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1652,2026-11-09 13:24:00,13,0,114.18,Porto Alegre,30.1,Supermercado,0,Legítima,0.19219240996540232,2.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1254,2026-11-05 09:39:00,9,0,47.54,Porto Alegre,39.0,Supermercado,0,Legítima,0.14776383625727552,13.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1304,2026-11-08 11:47:00,11,0,42.3,Rio de Janeiro,14.2,Alimentação,0,Legítima,0.18939731283074235,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1747,2026-11-14 11:00:00,11,0,45.35,São Paulo,15.0,Streaming,0,Legítima,0.18952631871611197,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1572,2026-11-05 10:07:00,10,0,74.48,Rio de Janeiro,0.5,Farmácia,0,Legítima,0.12635447707551545,18.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1624,2026-11-13 16:34:00,16,0,20.13,São Paulo,17.3,Combustível,0,Legítima,0.17538817494940268,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1733,2026-11-15 11:22:00,11,0,194.89,Rio de Janeiro,2.2,Alimentação,0,Legítima,0.12503614164109306,18.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1892,2026-11-08 13:59:00,13,0,47.84,São Paulo,16.4,Alimentação,0,Legítima,0.1917406930714214,3.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1263,2026-11-07 13:12:00,13,0,16.56,Curitiba,15.2,Combustível,0,Legítima,0.17851893568716765,6.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1611,2026-11-15 07:31:00,7,0,97.73,Curitiba,39.2,Combustível,0,Legítima,0.08093945179227213,28.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1298,2026-11-10 17:46:00,17,0,127.98,Curitiba,30.4,Combustível,0,Legítima,0.17501554978504053,6.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1415,2026-11-06 11:30:00,11,0,72.04,Rio de Janeiro,21.3,Combustível,0,Legítima,0.19434265229601222,2.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1151,2026-11-04 15:20:00,15,0,288.26,Rio de Janeiro,2.7,Streaming,0,Legítima,0.1027666146443954,23.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1789,2026-11-15 09:37:00,9,0,59.41,Porto Alegre,9.3,Farmácia,0,Legítima,0.1752370706182893,6.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1641,2026-11-12 17:02:00,17,0,250.82,São Paulo,36.4,Supermercado,0,Legítima,0.1318670665718512,16.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1890,2026-11-13 10:38:00,10,0,281.13,Porto Alegre,11.2,Combustível,0,Legítima,0.13370580580407537,16.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1551,2026-11-11 12:05:00,12,0,91.76,Porto Alegre,7.7,Streaming,0,Legítima,0.18059616372293036,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1887,2026-11-15 11:12:00,11,0,17.74,Porto Alegre,7.9,Supermercado,0,Legítima,0.1697764302695715,8.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1489,2026-11-02 14:46:00,14,0,44.09,Porto Alegre,39.3,Farmácia,0,Legítima,0.16455824386077061,9.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1148,2026-11-01 12:09:00,12,0,25.45,Curitiba,0.6,Streaming,0,Legítima,0.1185734339942578,19.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1147,2026-11-11 08:53:00,8,0,60.7,Porto Alegre,18.0,Alimentação,0,Legítima,0.1548620834824912,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1721,2026-11-11 18:12:00,18,0,165.69,São Paulo,5.2,Supermercado,0,Legítima,0.12682186014616903,17.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1932,2026-11-06 17:25:00,17,0,48.94,Curitiba,21.8,Farmácia,0,Legítima,0.19044612005081113,3.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1740,2026-11-13 13:40:00,13,0,164.54,Belo Horizonte,36.1,Streaming,0,Legítima,0.17459371881482422,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1660,2026-11-05 09:47:00,9,0,16.49,Porto Alegre,32.0,Farmácia,0,Legítima,0.15889533797018834,10.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1349,2026-11-06 17:03:00,17,0,111.01,São Paulo,43.8,Supermercado,0,Legítima,0.1371400178202169,15.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1464,2026-11-13 12:18:00,12,0,31.62,Belo Horizonte,31.2,Farmácia,0,Legítima,0.1896139544439489,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1326,2026-11-11 10:59:00,10,0,184.08,Porto Alegre,21.3,Supermercado,0,Legítima,0.1783226064392891,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1187,2026-11-15 10:36:00,10,0,53.42,Rio de Janeiro,5.0,Streaming,0,Legítima,0.17709014384112176,6.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1124,2026-11-12 08:30:00,8,0,113.96,Porto Alegre,21.2,Streaming,0,Legítima,0.15972017466445115,10.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1854,2026-11-08 14:59:00,14,0,313.05,Porto Alegre,32.3,Farmácia,0,Legítima,0.12317339965727997,18.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1609,2026-11-07 14:48:00,14,0,41.79,São Paulo,17.1,Streaming,0,Legítima,0.18988236969762068,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1144,2026-11-08 20:46:00,20,0,165.1,São Paulo,43.2,Supermercado,0,Legítima,0.08207623251233509,28.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1959,2026-11-14 17:47:00,17,0,35.96,São Paulo,30.9,Alimentação,0,Legítima,0.17455208256174826,6.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1198,2026-11-12 15:03:00,15,0,149.64,Porto Alegre,41.6,Alimentação,0,Legítima,0.15385848155517418,11.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1610,2026-11-07 12:54:00,12,0,60.38,São Paulo,20.5,Combustível,0,Legítima,0.19852407016167872,1.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1280,2026-11-15 11:11:00,11,0,32.33,Belo Horizonte,32.0,Streaming,0,Legítima,0.18216552197126312,5.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1294,2026-11-07 13:56:00,13,0,267.11,Curitiba,19.3,Farmácia,0,Legítima,0.16132840821642774,10.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1401,2026-11-05 13:16:00,13,0,41.48,Belo Horizonte,17.1,Combustível,0,Legítima,0.1907878951375051,3.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1123,2026-11-12 11:49:00,11,0,99.5,Belo Horizonte,6.0,Alimentação,0,Legítima,0.173330883623187,7.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1184,2026-11-13 09:48:00,9,0,142.4,Curitiba,7.9,Farmácia,0,Legítima,0.16407652381977972,9.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1203,2026-11-01 17:35:00,17,0,83.71,Rio de Janeiro,33.9,Streaming,0,Legítima,0.1817681463417805,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1439,2026-11-07 16:29:00,16,0,38.34,Belo Horizonte,45.0,Supermercado,0,Legítima,0.11816057770884247,19.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1247,2026-11-13 09:39:00,9,0,137.61,Rio de Janeiro,3.0,Alimentação,0,Legítima,0.14224923861486544,14.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1416,2026-11-13 12:06:00,12,0,171.02,Rio de Janeiro,40.6,Alimentação,0,Legítima,0.14921314908400313,12.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1933,2026-11-12 13:53:00,13,0,171.28,Porto Alegre,15.7,Farmácia,0,Legítima,0.18360712841307786,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1766,2026-11-06 12:50:00,12,0,34.54,Rio de Janeiro,36.3,Alimentação,0,Legítima,0.17997646198882228,5.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1907,2026-11-01 16:12:00,16,0,91.49,Porto Alegre,14.0,Farmácia,0,Legítima,0.1879392272860929,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1836,2026-11-01 10:40:00,10,0,43.85,Belo Horizonte,31.6,Alimentação,0,Legítima,0.18720571512553602,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1888,2026-11-15 15:59:00,15,0,54.65,São Paulo,12.9,Streaming,0,Legítima,0.1839212952906218,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1130,2026-11-07 07:45:00,7,0,152.9,Belo Horizonte,11.1,Combustível,0,Legítima,0.09158512574248823,26.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1638,2026-11-01 07:14:00,7,0,37.13,Porto Alegre,16.2,Supermercado,0,Legítima,0.10137017543594035,23.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1403,2026-11-13 12:45:00,12,0,26.65,Porto Alegre,26.9,Farmácia,0,Legítima,0.18887626361383075,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1785,2026-11-07 11:06:00,11,0,153.88,Belo Horizonte,32.3,Streaming,0,Legítima,0.17204040504562967,7.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1771,2026-11-11 12:21:00,12,0,75.77,Curitiba,21.1,Combustível,0,Legítima,0.1997159064087864,1.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1736,2026-11-09 10:25:00,10,0,96.35,Curitiba,7.3,Supermercado,0,Legítima,0.1832928774347608,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1914,2026-11-15 19:38:00,19,0,124.75,Rio de Janeiro,14.8,Combustível,0,Legítima,0.13934863097022598,15.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1220,2026-11-13 17:08:00,17,0,63.51,Belo Horizonte,5.6,Combustível,0,Legítima,0.15499942158911395,11.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1642,2026-11-03 15:27:00,15,0,242.26,Rio de Janeiro,20.1,Farmácia,0,Legítima,0.16059479939485438,10.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1916,2026-11-11 11:04:00,11,0,77.47,Porto Alegre,13.3,Alimentação,0,Legítima,0.18911658547304938,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1753,2026-11-06 09:55:00,9,0,62.87,São Paulo,15.0,Alimentação,0,Legítima,0.18118842844640398,5.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1807,2026-11-15 17:29:00,17,0,115.32,Belo Horizonte,26.6,Supermercado,0,Legítima,0.1819070115489978,5.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1920,2026-11-05 11:32:00,11,0,122.61,Porto Alegre,15.6,Supermercado,0,Legítima,0.18057196205929454,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1625,2026-11-03 11:35:00,11,0,63.18,Rio de Janeiro,29.0,Streaming,0,Legítima,0.18693337339819932,4.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1875,2026-11-05 07:35:00,7,0,30.86,Porto Alegre,41.4,Farmácia,0,Legítima,0.07584394607833489,29.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1761,2026-11-15 11:48:00,11,0,159.18,Belo Horizonte,28.1,Farmácia,0,Legítima,0.17789719914957847,6.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1387,2026-11-04 19:26:00,19,0,45.09,Curitiba,41.7,Supermercado,0,Legítima,0.11931591298002475,19.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2003,2026-11-08 01:59:00,1,1,44330.0,São Paulo,65.5,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.18727111357784176,90.3,1,CRÍTICO,"Valor atípico (R$ 44,330.00) + Horário de risco (01h)"
+TXN-1510,2026-11-12 15:06:00,15,0,188.25,Belo Horizonte,18.1,Combustível,0,Legítima,0.18074691215490774,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1268,2026-11-07 14:54:00,14,0,258.97,São Paulo,5.8,Farmácia,0,Legítima,0.12708314157720246,17.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1820,2026-11-03 22:36:00,22,0,443.62,Porto Alegre,36.0,Farmácia,0,Legítima,-0.040719842297342046,56.5,1,MÉDIO,Padrão multidimensional divergente do cluster usual
+TXN-1442,2026-11-07 12:44:00,12,0,61.67,Curitiba,11.8,Streaming,0,Legítima,0.18790194001204646,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1497,2026-11-04 14:38:00,14,0,159.21,Belo Horizonte,2.0,Farmácia,0,Legítima,0.14641610158251533,13.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1113,2026-11-11 15:24:00,15,0,71.33,Belo Horizonte,16.8,Supermercado,0,Legítima,0.18934495070334023,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1692,2026-11-07 14:17:00,14,0,223.12,São Paulo,25.6,Streaming,0,Legítima,0.1669139769567488,8.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1233,2026-11-06 09:25:00,9,0,144.84,Curitiba,34.0,Alimentação,0,Legítima,0.16331169182350397,9.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1870,2026-11-14 10:43:00,10,0,20.22,Porto Alegre,14.7,Farmácia,0,Legítima,0.17808815896779967,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1608,2026-11-10 13:27:00,13,0,29.61,Porto Alegre,12.5,Alimentação,0,Legítima,0.18350093911092547,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1672,2026-11-05 20:01:00,20,0,308.7,Curitiba,25.3,Streaming,0,Legítima,0.06759882878733092,31.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1374,2026-11-10 13:34:00,13,0,40.81,Belo Horizonte,15.3,Combustível,0,Legítima,0.1888696340702578,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2012,2026-11-04 05:16:00,5,1,21436.08,Kyiv / Ilhas Cayman,3576.1,Serviços Digitais Internacionais,1,Disparidade geográfica extrema (Distância > 2500km),-0.21470982107097114,96.6,1,CRÍTICO,"Valor atípico (R$ 21,436.08) + Horário de risco (05h) + Localidade distante (3576km)"
+TXN-1843,2026-11-08 17:08:00,17,0,158.62,Curitiba,12.2,Combustível,0,Legítima,0.16257249533098844,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1234,2026-11-12 13:32:00,13,0,167.58,Rio de Janeiro,10.3,Alimentação,0,Legítima,0.17629286639392577,6.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1786,2026-11-09 08:02:00,8,0,146.23,São Paulo,5.2,Streaming,0,Legítima,0.12980467614675018,17.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1677,2026-11-13 18:48:00,18,0,275.89,Rio de Janeiro,23.0,Alimentação,0,Legítima,0.1332954191225575,16.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1318,2026-11-04 17:58:00,17,0,77.63,Belo Horizonte,30.7,Supermercado,0,Legítima,0.18225776830052126,5.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1649,2026-11-02 15:17:00,15,0,73.72,Porto Alegre,10.6,Alimentação,0,Legítima,0.17827075869806336,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1411,2026-11-08 19:43:00,19,0,140.71,Porto Alegre,23.0,Alimentação,0,Legítima,0.14212772140174185,14.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1899,2026-11-11 16:58:00,16,0,45.84,Porto Alegre,34.8,Farmácia,0,Legítima,0.1798852197924503,5.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1710,2026-11-05 09:13:00,9,0,78.55,Rio de Janeiro,17.7,Alimentação,0,Legítima,0.18481405177053578,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1359,2026-11-11 15:37:00,15,0,287.57,Belo Horizonte,20.4,Supermercado,0,Legítima,0.1486445968391043,12.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1259,2026-11-04 12:51:00,12,0,217.02,Belo Horizonte,12.0,Combustível,0,Legítima,0.15752680465720947,10.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1745,2026-11-05 18:45:00,18,0,55.77,Porto Alegre,23.3,Supermercado,0,Legítima,0.1703941232510141,7.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1628,2026-11-01 08:51:00,8,0,80.71,Curitiba,44.2,Alimentação,0,Legítima,0.11099689637709781,21.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1633,2026-11-08 10:48:00,10,0,40.95,São Paulo,4.1,Supermercado,0,Legítima,0.16338834931339008,9.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1283,2026-11-08 16:45:00,16,0,107.24,Porto Alegre,16.6,Alimentação,0,Legítima,0.18581099335300633,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1377,2026-11-10 10:15:00,10,0,35.02,Belo Horizonte,2.9,Supermercado,0,Legítima,0.15537011165564724,11.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1385,2026-11-08 09:51:00,9,0,259.61,Belo Horizonte,2.4,Alimentação,0,Legítima,0.09376386295167027,25.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1225,2026-11-10 15:47:00,15,0,194.04,São Paulo,32.9,Supermercado,0,Legítima,0.17108981084399083,7.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1954,2026-11-13 13:28:00,13,0,350.02,São Paulo,27.0,Farmácia,0,Legítima,0.106992806371419,22.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1815,2026-11-05 18:26:00,18,0,213.01,Curitiba,14.1,Farmácia,0,Legítima,0.14411250256408664,14.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1473,2026-11-10 18:12:00,18,0,21.95,Curitiba,38.2,Combustível,0,Legítima,0.1379226097155506,15.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1348,2026-11-07 13:07:00,13,0,137.11,Rio de Janeiro,40.0,Alimentação,0,Legítima,0.15779230621754364,10.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1506,2026-11-06 12:31:00,12,0,49.78,São Paulo,17.2,Farmácia,0,Legítima,0.19532122003171043,2.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1640,2026-11-01 11:36:00,11,0,61.9,São Paulo,12.7,Alimentação,0,Legítima,0.1879653634440005,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2018,2026-11-04 19:31:00,19,0,41353.4,Rio de Janeiro,37.2,Joalheria & Artigos de Luxo,1,Ticket ultra elevado fora do perfil de consumo,-0.12455427669178154,75.9,1,CRÍTICO,"Valor atípico (R$ 41,353.40)"
+TXN-1929,2026-11-14 08:47:00,8,0,85.69,Porto Alegre,34.3,Supermercado,0,Legítima,0.15059088795004066,12.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1906,2026-11-05 10:00:00,10,0,188.06,São Paulo,29.9,Supermercado,0,Legítima,0.16757415446078855,8.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1620,2026-11-03 15:09:00,15,0,61.17,Porto Alegre,12.6,Alimentação,0,Legítima,0.18232780728171283,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1856,2026-11-15 11:46:00,11,0,203.6,São Paulo,36.0,Farmácia,0,Legítima,0.15242092245958394,12.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1804,2026-11-04 13:31:00,13,0,97.78,Rio de Janeiro,16.8,Alimentação,0,Legítima,0.19354955406037655,2.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1646,2026-11-13 11:16:00,11,0,36.19,Rio de Janeiro,43.7,Farmácia,0,Legítima,0.13956138867285783,15.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1847,2026-11-05 18:26:00,18,0,137.95,Porto Alegre,23.3,Combustível,0,Legítima,0.16247865831516112,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1557,2026-11-12 15:45:00,15,0,29.16,Curitiba,5.8,Farmácia,0,Legítima,0.16748621271284653,8.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1958,2026-11-07 16:58:00,16,0,71.89,Porto Alegre,18.9,Supermercado,0,Legítima,0.19566022933090332,2.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1578,2026-11-15 15:17:00,15,0,16.59,Curitiba,25.8,Streaming,0,Legítima,0.18150653321441684,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1796,2026-11-03 13:34:00,13,0,136.62,Belo Horizonte,7.7,Supermercado,0,Legítima,0.1770950953158873,6.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1086,2026-11-14 17:58:00,17,0,225.62,Porto Alegre,37.8,Combustível,0,Legítima,0.1293503867259272,17.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1243,2026-11-01 08:21:00,8,0,65.54,Curitiba,29.3,Streaming,0,Legítima,0.15491189944222777,11.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1699,2026-11-12 19:53:00,19,0,58.72,Porto Alegre,24.7,Supermercado,0,Legítima,0.1527954519714249,11.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1160,2026-11-12 16:18:00,16,0,53.04,São Paulo,26.9,Streaming,0,Legítima,0.18973255624833485,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1525,2026-11-04 13:36:00,13,0,111.98,Rio de Janeiro,32.4,Supermercado,0,Legítima,0.18756556539722657,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1036,2026-11-07 08:17:00,8,0,149.66,Porto Alegre,40.3,Streaming,0,Legítima,0.11692933897422925,20.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1541,2026-11-15 13:31:00,13,0,16.47,Curitiba,23.3,Farmácia,0,Legítima,0.18489597078049336,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1171,2026-11-08 10:20:00,10,0,192.33,Belo Horizonte,17.4,Streaming,0,Legítima,0.17173247264678132,7.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1655,2026-11-09 16:43:00,16,0,176.41,Rio de Janeiro,43.5,Farmácia,0,Legítima,0.13499120770816248,16.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1891,2026-11-05 18:36:00,18,0,106.43,São Paulo,13.3,Supermercado,0,Legítima,0.16317712227460768,9.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1858,2026-11-13 17:01:00,17,0,75.2,Curitiba,25.0,Streaming,0,Legítima,0.1890825744630768,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1848,2026-11-13 12:29:00,12,0,255.63,São Paulo,44.9,Combustível,0,Legítima,0.08478661511566032,27.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1945,2026-11-14 08:54:00,8,0,84.3,Porto Alegre,41.5,Farmácia,0,Legítima,0.12579501854699354,18.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1734,2026-11-02 14:37:00,14,0,191.31,Rio de Janeiro,19.3,Combustível,0,Legítima,0.1878249583042999,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1096,2026-11-07 12:09:00,12,0,67.61,Porto Alegre,14.6,Farmácia,0,Legítima,0.19430972020499576,2.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1564,2026-11-10 15:57:00,15,0,181.46,Curitiba,2.5,Alimentação,0,Legítima,0.1402014214351252,14.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1241,2026-11-12 12:15:00,12,0,221.19,Rio de Janeiro,17.6,Farmácia,0,Legítima,0.1659951742477887,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1743,2026-11-11 10:28:00,10,0,22.93,Belo Horizonte,8.9,Alimentação,0,Legítima,0.1751273620495996,6.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1575,2026-11-15 09:53:00,9,0,85.86,Belo Horizonte,44.4,Combustível,0,Legítima,0.11916681289279063,19.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1691,2026-11-07 14:41:00,14,0,145.21,Curitiba,42.0,Streaming,0,Legítima,0.15429266721300916,11.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1461,2026-11-12 10:06:00,10,0,132.25,Belo Horizonte,2.0,Streaming,0,Legítima,0.14209407734126794,14.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1554,2026-11-10 09:05:00,9,0,52.79,Rio de Janeiro,31.3,Alimentação,0,Legítima,0.17432888322070472,7.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1889,2026-11-01 15:04:00,15,0,127.74,São Paulo,24.4,Combustível,0,Legítima,0.193442936587016,2.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1207,2026-11-07 12:27:00,12,0,118.95,Porto Alegre,30.2,Supermercado,0,Legítima,0.18464718187956808,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1393,2026-11-07 10:43:00,10,0,148.33,Curitiba,10.1,Combustível,0,Legítima,0.17571450853096848,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1795,2026-11-11 10:38:00,10,0,175.65,Porto Alegre,11.2,Streaming,0,Legítima,0.1689396476381344,8.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1398,2026-11-07 17:02:00,17,0,155.15,Rio de Janeiro,5.7,Combustível,0,Legítima,0.14629363663813222,13.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1767,2026-11-11 12:40:00,12,0,43.56,São Paulo,1.8,Farmácia,0,Legítima,0.14865444365217678,12.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1849,2026-11-13 13:07:00,13,0,129.43,São Paulo,2.4,Alimentação,0,Legítima,0.15440642395906073,11.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1218,2026-11-04 11:18:00,11,0,167.11,Rio de Janeiro,10.2,Farmácia,0,Legítima,0.1655922958428968,9.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1005,2026-11-06 16:42:00,16,0,189.61,Curitiba,35.1,Streaming,0,Legítima,0.16383596084681235,9.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1769,2026-11-10 10:09:00,10,0,57.62,São Paulo,9.6,Alimentação,0,Legítima,0.18636165915131647,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1643,2026-11-08 09:07:00,9,0,22.9,Curitiba,6.4,Supermercado,0,Legítima,0.15645097855462464,11.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1930,2026-11-15 16:46:00,16,0,95.33,São Paulo,20.7,Alimentação,0,Legítima,0.19593486322495984,2.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1613,2026-11-02 10:13:00,10,0,158.4,Rio de Janeiro,34.4,Combustível,0,Legítima,0.16431005944533306,9.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1739,2026-11-13 16:24:00,16,0,321.9,Curitiba,28.9,Farmácia,0,Legítima,0.12279902578638502,18.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1547,2026-11-03 10:46:00,10,0,53.76,Porto Alegre,10.5,Supermercado,0,Legítima,0.1877840416249164,3.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1726,2026-11-05 10:54:00,10,0,50.23,Belo Horizonte,4.2,Alimentação,0,Legítima,0.16536989385628487,9.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1684,2026-11-04 14:18:00,14,0,29.84,São Paulo,16.7,Supermercado,0,Legítima,0.18584072742554947,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1099,2026-11-09 17:20:00,17,0,81.93,Curitiba,16.5,Combustível,0,Legítima,0.18349111915949268,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1805,2026-11-15 16:26:00,16,0,239.38,São Paulo,20.5,Farmácia,0,Legítima,0.15972466844899558,10.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1728,2026-11-14 18:28:00,18,0,83.9,Rio de Janeiro,19.2,Alimentação,0,Legítima,0.17887788719411601,5.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1574,2026-11-01 10:24:00,10,0,177.06,Rio de Janeiro,6.1,Supermercado,0,Legítima,0.15956149233624928,10.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1407,2026-11-07 08:21:00,8,0,69.36,Curitiba,15.5,Supermercado,0,Legítima,0.15751432784851704,10.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1503,2026-11-14 19:02:00,19,0,356.4,Rio de Janeiro,28.1,Combustível,0,Legítima,0.07694074239645476,29.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1048,2026-11-01 17:50:00,17,0,18.53,Rio de Janeiro,36.0,Streaming,0,Legítima,0.15683640073440958,11.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1033,2026-11-14 09:36:00,9,0,108.33,Rio de Janeiro,25.2,Supermercado,0,Legítima,0.18012236899137707,5.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1780,2026-11-09 10:18:00,10,0,103.38,Belo Horizonte,6.7,Streaming,0,Legítima,0.18262432527842998,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1840,2026-11-03 14:53:00,14,0,105.33,Curitiba,43.9,Alimentação,0,Legítima,0.13968552295123027,15.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1201,2026-11-14 12:09:00,12,0,61.22,Curitiba,21.0,Combustível,0,Legítima,0.20027128202403027,1.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1135,2026-11-06 14:03:00,14,0,76.79,Rio de Janeiro,6.5,Farmácia,0,Legítima,0.1833532877662511,4.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1028,2026-11-15 07:09:00,7,0,78.99,Curitiba,4.2,Combustível,0,Legítima,0.09459822436873944,25.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1881,2026-11-06 17:06:00,17,0,85.27,São Paulo,37.4,Farmácia,0,Legítima,0.17239206759689724,7.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1231,2026-11-01 16:05:00,16,0,102.25,Belo Horizonte,8.0,Streaming,0,Legítima,0.17173823884167172,7.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1490,2026-11-02 15:19:00,15,0,127.92,São Paulo,33.2,Alimentação,0,Legítima,0.18698563500224352,4.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1773,2026-11-03 10:30:00,10,0,117.13,Curitiba,23.8,Farmácia,0,Legítima,0.18024250103714784,5.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1379,2026-11-07 12:40:00,12,0,18.73,Curitiba,40.2,Streaming,0,Legítima,0.15303952305046659,11.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1289,2026-11-10 17:51:00,17,0,81.49,Belo Horizonte,16.0,Streaming,0,Legítima,0.18143739765755823,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1419,2026-11-11 16:24:00,16,0,239.13,Curitiba,23.6,Supermercado,0,Legítima,0.15903971666392047,10.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1675,2026-11-14 16:51:00,16,0,17.19,Belo Horizonte,31.3,Supermercado,0,Legítima,0.17017826614753445,7.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1392,2026-11-15 11:55:00,11,0,63.71,São Paulo,8.3,Alimentação,0,Legítima,0.18378621079811297,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1593,2026-11-05 14:49:00,14,0,34.39,Belo Horizonte,3.5,Combustível,0,Legítima,0.16594552368251264,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1499,2026-11-15 19:39:00,19,0,135.2,Belo Horizonte,21.1,Combustível,0,Legítima,0.14623152679532553,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1139,2026-11-08 18:18:00,18,0,131.04,Rio de Janeiro,29.6,Farmácia,0,Legítima,0.15913240238801057,10.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1063,2026-11-06 10:20:00,10,0,112.48,Belo Horizonte,17.4,Alimentação,0,Legítima,0.189688059956717,3.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1472,2026-11-05 11:41:00,11,0,42.49,Porto Alegre,7.2,Alimentação,0,Legítima,0.18134498262137844,5.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1648,2026-11-05 09:48:00,9,0,109.5,São Paulo,4.0,Supermercado,0,Legítima,0.152624681640381,12.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1129,2026-11-13 15:14:00,15,0,16.19,Porto Alegre,30.6,Farmácia,0,Legítima,0.17448073948642667,7.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2007,2026-11-15 02:54:00,2,1,25691.33,São Paulo,67.0,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.1568741896705108,83.3,1,CRÍTICO,"Valor atípico (R$ 25,691.33) + Horário de risco (02h)"
+TXN-1521,2026-11-13 10:22:00,10,0,176.56,Porto Alegre,39.5,Streaming,0,Legítima,0.1398424974190547,14.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1839,2026-11-06 07:44:00,7,0,25.64,Porto Alegre,39.3,Alimentação,0,Legítima,0.07403524298162911,30.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1963,2026-11-12 09:44:00,9,0,83.38,Rio de Janeiro,36.3,Combustível,0,Legítima,0.16254302494255923,9.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1065,2026-11-09 11:27:00,11,0,287.96,Curitiba,36.3,Combustível,0,Legítima,0.1194448509633737,19.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1813,2026-11-02 10:28:00,10,0,401.76,Curitiba,8.8,Streaming,0,Legítima,0.08304180283879625,28.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1015,2026-11-07 10:16:00,10,0,207.66,São Paulo,3.1,Alimentação,0,Legítima,0.12690296862106426,17.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1157,2026-11-06 21:04:00,21,0,205.65,São Paulo,36.1,Alimentação,0,Legítima,0.050102741062542755,35.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1041,2026-11-03 13:26:00,13,0,15.77,São Paulo,6.4,Alimentação,0,Legítima,0.16747208184496137,8.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1493,2026-11-03 09:22:00,9,0,58.22,Porto Alegre,23.0,Streaming,0,Legítima,0.18083337765526092,5.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1380,2026-11-03 07:32:00,7,0,64.06,Rio de Janeiro,7.2,Farmácia,0,Legítima,0.09992624288234686,24.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1188,2026-11-13 11:10:00,11,0,28.81,Belo Horizonte,20.5,Farmácia,0,Legítima,0.1889409843948574,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1764,2026-11-10 15:04:00,15,0,343.78,Porto Alegre,33.1,Farmácia,0,Legítima,0.10219966783217765,23.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1217,2026-11-08 16:06:00,16,0,83.7,Belo Horizonte,29.2,Alimentação,0,Legítima,0.1894009653634095,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1792,2026-11-02 12:13:00,12,0,35.76,São Paulo,44.6,Farmácia,0,Legítima,0.136428895781587,15.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1053,2026-11-03 11:55:00,11,0,308.29,Curitiba,13.2,Supermercado,0,Legítima,0.11573712480400655,20.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1879,2026-11-04 14:14:00,14,0,139.14,Rio de Janeiro,8.8,Alimentação,0,Legítima,0.17520305622926757,6.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1338,2026-11-11 20:00:00,20,0,160.65,São Paulo,16.2,Streaming,0,Legítima,0.10380687400315552,23.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1749,2026-11-10 11:13:00,11,0,91.96,Belo Horizonte,43.3,Streaming,0,Legítima,0.14640416769350484,13.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1720,2026-11-07 11:43:00,11,0,70.51,Curitiba,25.4,Combustível,0,Legítima,0.19081307738586745,3.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1725,2026-11-06 11:14:00,11,0,85.35,Curitiba,13.7,Streaming,0,Legítima,0.18938001551711586,3.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1296,2026-11-08 21:01:00,21,0,426.73,Rio de Janeiro,3.2,Farmácia,0,Legítima,-0.03727053221868604,55.7,1,MÉDIO,Padrão multidimensional divergente do cluster usual
+TXN-1702,2026-11-01 13:29:00,13,0,20.65,São Paulo,7.8,Farmácia,0,Legítima,0.17132280069483669,7.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1252,2026-11-13 14:54:00,14,0,86.29,Porto Alegre,22.7,Streaming,0,Legítima,0.20058704589817672,0.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1727,2026-11-07 09:53:00,9,0,204.87,Curitiba,10.0,Supermercado,0,Legítima,0.1459092091738486,13.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1462,2026-11-07 08:01:00,8,0,17.6,Rio de Janeiro,44.4,Alimentação,0,Legítima,0.08730824792538083,27.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1456,2026-11-10 16:35:00,16,0,112.0,Belo Horizonte,2.3,Alimentação,0,Legítima,0.14375925188240535,14.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2027,2026-11-06 18:29:00,18,0,50033.49,Rio de Janeiro,15.1,Joalheria & Artigos de Luxo,1,Ticket ultra elevado fora do perfil de consumo,-0.11502930888095453,73.7,1,CRÍTICO,"Valor atípico (R$ 50,033.49)"
+TXN-1816,2026-11-02 18:40:00,18,0,83.59,São Paulo,41.2,Combustível,0,Legítima,0.13413535060947374,16.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1863,2026-11-04 14:05:00,14,0,172.65,Rio de Janeiro,34.6,Streaming,0,Legítima,0.1799514063986679,5.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1270,2026-11-08 07:56:00,7,0,126.24,Curitiba,7.8,Combustível,0,Legítima,0.09406033449153967,25.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1202,2026-11-09 15:39:00,15,0,97.22,Curitiba,30.7,Supermercado,0,Legítima,0.19105606198099828,3.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1162,2026-11-01 22:15:00,22,0,18.35,Curitiba,26.5,Streaming,0,Legítima,0.02710321676869709,40.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1556,2026-11-12 08:27:00,8,0,133.0,Curitiba,16.2,Combustível,0,Legítima,0.14998849756382315,12.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1730,2026-11-05 14:44:00,14,0,88.03,Porto Alegre,39.6,Combustível,0,Legítima,0.16547095300240777,9.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1402,2026-11-02 15:45:00,15,0,17.59,Curitiba,20.8,Alimentação,0,Legítima,0.18182466122010094,5.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1703,2026-11-12 16:17:00,16,0,56.97,Belo Horizonte,7.4,Farmácia,0,Legítima,0.1707816377160466,7.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1477,2026-11-03 10:23:00,10,0,19.38,Rio de Janeiro,27.0,Farmácia,0,Legítima,0.17611054846014979,6.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1822,2026-11-01 13:20:00,13,0,49.49,São Paulo,32.1,Streaming,0,Legítima,0.1907597691663952,3.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1772,2026-11-01 20:13:00,20,0,159.02,São Paulo,41.8,Streaming,0,Legítima,0.08712679310886623,27.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1106,2026-11-11 11:46:00,11,0,123.61,Belo Horizonte,29.0,Alimentação,0,Legítima,0.18045689795823538,5.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1566,2026-11-04 14:53:00,14,0,15.84,São Paulo,17.3,Combustível,0,Legítima,0.17823937478285773,6.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1390,2026-11-07 14:28:00,14,0,39.08,Curitiba,33.4,Supermercado,0,Legítima,0.1837563696321622,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1002,2026-11-12 20:44:00,20,0,311.81,Curitiba,20.5,Supermercado,0,Legítima,0.06642707757326116,31.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1938,2026-11-02 14:46:00,14,0,163.52,Belo Horizonte,12.0,Streaming,0,Legítima,0.18040615084618317,5.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2013,2026-11-11 04:52:00,4,1,12053.35,Fronteira Seca,353.3,Saque em Espécie 24h,1,Saque de alto valor na madrugada em local distante,-0.15052642400464744,81.8,1,CRÍTICO,"Valor atípico (R$ 12,053.35) + Horário de risco (04h)"
+TXN-1562,2026-11-07 16:03:00,16,0,92.14,Porto Alegre,33.3,Streaming,0,Legítima,0.18449919038606055,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1081,2026-11-02 17:32:00,17,0,55.79,Belo Horizonte,5.2,Streaming,0,Legítima,0.1533556362969798,11.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1206,2026-11-14 13:43:00,13,0,151.26,São Paulo,15.7,Combustível,0,Legítima,0.18694214654242208,4.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1035,2026-11-08 11:37:00,11,0,67.88,Porto Alegre,7.8,Streaming,0,Legítima,0.1846296022935322,4.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1776,2026-11-11 12:30:00,12,0,127.29,Curitiba,24.8,Streaming,0,Legítima,0.1888357124423244,3.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1509,2026-11-04 07:14:00,7,0,147.04,Porto Alegre,28.0,Supermercado,0,Legítima,0.09132468450238623,26.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1428,2026-11-12 08:40:00,8,0,122.77,Porto Alegre,38.6,Combustível,0,Legítima,0.12958799417573214,17.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1455,2026-11-12 18:42:00,18,0,59.77,Rio de Janeiro,43.8,Alimentação,0,Legítima,0.12741843526488744,17.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1367,2026-11-03 19:58:00,19,0,113.69,São Paulo,29.0,Alimentação,0,Legítima,0.152341882896866,12.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1092,2026-11-09 15:52:00,15,0,31.95,Rio de Janeiro,13.9,Streaming,0,Legítima,0.18361008655322053,4.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1340,2026-11-05 18:05:00,18,0,455.22,Belo Horizonte,44.1,Alimentação,0,Legítima,0.021814199069730922,42.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1898,2026-11-12 12:57:00,12,0,107.33,Curitiba,25.3,Combustível,0,Legítima,0.1936360270119704,2.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1565,2026-11-07 17:22:00,17,0,230.72,Belo Horizonte,9.8,Alimentação,0,Legítima,0.1316452135369236,16.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1346,2026-11-12 13:24:00,13,0,44.21,Belo Horizonte,1.7,Alimentação,0,Legítima,0.15098386468634734,12.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1777,2026-11-08 17:09:00,17,0,95.5,Porto Alegre,17.7,Streaming,0,Legítima,0.18586149907593374,4.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1242,2026-11-08 11:07:00,11,0,42.44,Curitiba,30.6,Farmácia,0,Legítima,0.18795076307792863,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1014,2026-11-09 14:05:00,14,0,71.29,Belo Horizonte,19.9,Supermercado,0,Legítima,0.20015362509505225,1.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1316,2026-11-03 11:12:00,11,0,32.22,Belo Horizonte,42.7,Supermercado,0,Legítima,0.14550393012835922,13.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1601,2026-11-12 12:21:00,12,0,56.35,São Paulo,14.5,Farmácia,0,Legítima,0.19181940998068703,3.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1388,2026-11-01 20:30:00,20,0,232.27,Belo Horizonte,40.8,Streaming,0,Legítima,0.06680079991030397,31.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1274,2026-11-10 09:34:00,9,0,62.29,Porto Alegre,19.6,Combustível,0,Legítima,0.18718693546905785,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1167,2026-11-09 16:45:00,16,0,127.4,Belo Horizonte,19.2,Streaming,0,Legítima,0.19118787144005434,3.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1841,2026-11-11 08:28:00,8,0,225.86,Belo Horizonte,8.1,Supermercado,0,Legítima,0.11249345562605123,21.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2023,2026-11-04 02:30:00,2,1,41792.09,São Paulo,74.0,Transferência Pix Imediata,1,Alto valor em horário de madrugada (Madrugada/Pix),-0.176864561471216,87.9,1,CRÍTICO,"Valor atípico (R$ 41,792.09) + Horário de risco (02h)"
+TXN-1647,2026-11-05 14:24:00,14,0,93.76,Belo Horizonte,36.3,Supermercado,0,Legítima,0.1856670113653155,4.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1819,2026-11-15 13:42:00,13,0,46.51,Curitiba,17.6,Streaming,0,Legítima,0.19302914136874205,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1485,2026-11-10 14:11:00,14,0,155.61,Belo Horizonte,44.9,Combustível,0,Legítima,0.11374901422102635,20.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-OUT-2011,2026-11-05 18:21:00,18,0,56035.51,Rio de Janeiro,33.3,Joalheria & Artigos de Luxo,1,Ticket ultra elevado fora do perfil de consumo,-0.13000264891176816,77.1,1,CRÍTICO,"Valor atípico (R$ 56,035.51)"
+TXN-1505,2026-11-06 17:08:00,17,0,15.78,Porto Alegre,23.1,Farmácia,0,Legítima,0.16802743011083887,8.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1832,2026-11-03 09:54:00,9,0,19.92,Porto Alegre,4.1,Farmácia,0,Legítima,0.1407230372070254,14.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1244,2026-11-14 10:50:00,10,0,103.31,Porto Alegre,42.1,Farmácia,0,Legítima,0.14519907106996288,13.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1567,2026-11-07 12:16:00,12,0,183.37,Curitiba,34.2,Alimentação,0,Legítima,0.16851446533542475,8.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1876,2026-11-14 12:22:00,12,0,17.56,Curitiba,2.8,Alimentação,0,Legítima,0.14737462193634737,13.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1563,2026-11-07 10:51:00,10,0,60.52,Rio de Janeiro,30.9,Streaming,0,Legítima,0.18692322629680957,4.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1687,2026-11-12 22:38:00,22,0,236.5,São Paulo,1.4,Streaming,0,Legítima,-0.018678161380911162,51.5,1,MÉDIO,Padrão multidimensional divergente do cluster usual
+TXN-1190,2026-11-04 13:43:00,13,0,135.5,Rio de Janeiro,42.3,Supermercado,0,Legítima,0.15373503343418443,11.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1783,2026-11-02 09:21:00,9,0,33.64,Porto Alegre,27.6,Supermercado,0,Legítima,0.17414819010756605,7.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1700,2026-11-08 16:31:00,16,0,114.61,Porto Alegre,17.5,Supermercado,0,Legítima,0.18726353602440204,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1476,2026-11-06 16:50:00,16,0,15.91,Rio de Janeiro,44.6,Farmácia,0,Legítima,0.11412929683101031,20.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1682,2026-11-09 17:43:00,17,0,129.34,Porto Alegre,11.5,Streaming,0,Legítima,0.16412535162978165,9.3,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1511,2026-11-02 08:43:00,8,0,189.26,São Paulo,1.2,Streaming,0,Legítima,0.0933786145908092,25.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1059,2026-11-02 19:41:00,19,0,38.28,Porto Alegre,44.1,Streaming,0,Legítima,0.10646378166386605,22.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1475,2026-11-01 21:16:00,21,0,31.61,São Paulo,26.8,Supermercado,0,Legítima,0.07026904934437783,31.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1561,2026-11-11 11:40:00,11,0,25.16,Porto Alegre,44.1,Streaming,0,Legítima,0.13203605679675479,16.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1857,2026-11-13 10:47:00,10,0,15.58,Curitiba,42.1,Combustível,0,Legítima,0.1313762057151116,16.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1748,2026-11-04 09:18:00,9,0,16.71,Curitiba,23.3,Combustível,0,Legítima,0.16624186606762514,8.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1253,2026-11-15 13:17:00,13,0,32.01,Porto Alegre,26.5,Alimentação,0,Legítima,0.18862479827701778,3.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1022,2026-11-07 16:47:00,16,0,51.12,São Paulo,40.7,Supermercado,0,Legítima,0.15307025615968822,11.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1314,2026-11-13 17:04:00,17,0,149.95,São Paulo,18.4,Alimentação,0,Legítima,0.17571624265103747,6.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1460,2026-11-06 08:23:00,8,0,76.95,Belo Horizonte,13.3,Alimentação,0,Legítima,0.1560264481924334,11.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1161,2026-11-03 09:46:00,9,0,117.72,São Paulo,23.1,Supermercado,0,Legítima,0.1764337097099155,6.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1277,2026-11-13 19:45:00,19,0,45.02,Rio de Janeiro,37.6,Supermercado,0,Legítima,0.136485337277722,15.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1956,2026-11-07 19:39:00,19,0,20.65,Rio de Janeiro,22.8,Alimentação,0,Legítima,0.1452179965808385,13.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1192,2026-11-07 13:49:00,13,0,52.52,Rio de Janeiro,42.9,Supermercado,0,Legítima,0.1529201682124764,11.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1386,2026-11-07 10:34:00,10,0,87.84,São Paulo,37.2,Supermercado,0,Legítima,0.17162702124467383,7.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1806,2026-11-13 17:19:00,17,0,66.95,Rio de Janeiro,18.1,Streaming,0,Legítima,0.18494827774891198,4.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1414,2026-11-04 12:33:00,12,0,58.72,Curitiba,30.5,Supermercado,0,Legítima,0.19278920788986437,2.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1492,2026-11-11 18:02:00,18,0,55.53,Rio de Janeiro,2.7,Alimentação,0,Legítima,0.12143403890736815,19.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1344,2026-11-06 08:50:00,8,0,291.4,Porto Alegre,33.9,Supermercado,0,Legítima,0.09853226740972948,24.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1770,2026-11-02 09:49:00,9,0,15.23,São Paulo,1.4,Streaming,0,Legítima,0.12180107747783048,19.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1309,2026-11-05 12:42:00,12,0,45.31,Porto Alegre,34.5,Alimentação,0,Legítima,0.18633755773958727,4.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1662,2026-11-04 13:34:00,13,0,187.32,Curitiba,1.7,Alimentação,0,Legítima,0.13547392902189315,15.9,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1131,2026-11-06 17:31:00,17,0,304.32,Porto Alegre,26.8,Alimentação,0,Legítima,0.12556043360865515,18.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1664,2026-11-08 11:54:00,11,0,80.32,Belo Horizonte,7.5,Streaming,0,Legítima,0.18244698321227576,5.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1872,2026-11-11 09:49:00,9,0,90.96,Curitiba,34.3,Alimentação,0,Legítima,0.16999835837756805,8.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1100,2026-11-12 13:48:00,13,0,32.91,São Paulo,22.9,Streaming,0,Legítima,0.1954176329795685,2.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1373,2026-11-05 17:57:00,17,0,62.55,Belo Horizonte,25.5,Farmácia,0,Legítima,0.18739034676639138,4.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1088,2026-11-13 15:05:00,15,0,38.9,Porto Alegre,9.1,Combustível,0,Legítima,0.17088992293056732,7.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1459,2026-11-07 13:33:00,13,0,185.33,Belo Horizonte,44.8,Streaming,0,Legítima,0.11447121012836214,20.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1331,2026-11-14 10:23:00,10,0,103.03,Rio de Janeiro,10.6,Streaming,0,Legítima,0.18828403279143496,3.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1215,2026-11-10 13:26:00,13,0,141.16,Porto Alegre,41.1,Alimentação,0,Legítima,0.15700914826091522,11.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1467,2026-11-13 18:42:00,18,0,26.13,Rio de Janeiro,3.0,Supermercado,0,Legítima,0.12408376922016345,18.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1122,2026-11-09 12:38:00,12,0,190.47,Curitiba,44.3,Streaming,0,Legítima,0.11748987315701354,20.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1615,2026-11-14 18:10:00,18,0,227.09,Rio de Janeiro,21.2,Streaming,0,Legítima,0.14661972683294017,13.4,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1021,2026-11-11 18:29:00,18,0,209.41,Belo Horizonte,35.2,Streaming,0,Legítima,0.1390587469222862,15.1,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1701,2026-11-07 13:59:00,13,0,45.39,Porto Alegre,37.8,Supermercado,0,Legítima,0.1764068512575943,6.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1072,2026-11-08 17:31:00,17,0,164.56,São Paulo,5.8,Streaming,0,Legítima,0.14528038879919342,13.7,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1107,2026-11-04 07:40:00,7,0,36.43,Curitiba,7.9,Supermercado,0,Legítima,0.09534699156462595,25.2,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1271,2026-11-06 15:06:00,15,0,103.21,São Paulo,21.0,Supermercado,0,Legítima,0.19614410300389523,2.0,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1861,2026-11-08 08:52:00,8,0,107.07,Belo Horizonte,1.3,Supermercado,0,Legítima,0.11864842012106996,19.8,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1436,2026-11-11 14:22:00,14,0,39.23,Rio de Janeiro,36.8,Farmácia,0,Legítima,0.1762380398498043,6.5,0,NORMAL,Transação dentro dos padrões usuais de consumo.
+TXN-1103,2026-11-03 11:29:00,11,0,73.13,São Paulo,1.2,Combustível,0,Legítima,0.14132190797004712,14.6,0,NORMAL,Transação dentro dos padrões usuais de consumo.
